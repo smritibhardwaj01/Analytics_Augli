@@ -95,7 +95,23 @@
 
 <script>
     var d1 = new Date();
-    document.getElementById("currentDate").innerHTML = d1.getMonth();
+    var d2 = new Date();
+    var d3 = new Date();
+    var d4 = new Date();
+    var d5 = new Date();
+    // var date = d1.getDate();
+    // var month = d1.getMonth();
+    // var year = d1.getFullYear();
+    // var dateString = date+"-"+month+"-"+year;
+    d2.setDate(d1.getDate()-1);
+    d3.setDate(d1.getDate()-2);
+    d4.setDate(d1.getDate()-3);
+    d5.setDate(d1.getDate()-4);
+    document.getElementById("currentDate").innerHTML = d1.getDate();
+    document.getElementById("currentDate1").innerHTML = d2.getDate();
+    document.getElementById("currentDate2").innerHTML = d3.getDate();
+    document.getElementById("currentDate3").innerHTML = d4.getDate();
+    document.getElementById("currentDate4").innerHTML = d5.getDate();
 </script>
 </body>
 </html>
