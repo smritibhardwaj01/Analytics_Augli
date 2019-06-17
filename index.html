@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Analytics</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" media="screen" href="style.css" />
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.0/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js"></script>
+    <script src="main.js"></script>
+</head>
+<body>
+    <select id='filterSchool' style='display:inline-block' onchange='filterSchool()'>
+            <option value='Indus Indore'>Indore</option>
+            <option value='LP Chandigarh'>Chandigarh</option>
+            <option value='Indus Ludhiana'>Ludhiana</option>
+            <option value='Indus Gurgaon'>Gurgaon</option>
+            <option selected>All</option>
+    </select>
+
+    <select id='filterDate' style='display:inline-block' onchange='filterDate()'>
+            <option value='' id="currentDate" ></option>
+            <option value='' id="currentDate1"></option>
+            <option value='' id="currentDate2"></option>
+            <option value='' id="currentDate3"></option>
+            <option value='' id="currentDate4"></option>
+            <option selected>All</option>
+    </select>
+
+    <table class="table table-bordered" id="macroTable">
+        <tr>
+            <th>Total number of active users</th>
+            <th>Total time spent by the users</th>
+            <th>Average time spent per user</th>
+            <th>Average number of activities done by the user</th>
+        </tr>
+        <tr>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+    </table>
+
+
+
+    <table class="table table-bordered" id="myTable">
+        <tr>
+          <th>#</th>
+          <th>User Name</th>
+          <th>Name</th> 
+          <th>Grade</th>
+          <th>School</th>
+          <th>Duration (sec)</th>
+          <th>Date</th>
+          <th>Timestamp</th>
+          <th>Page</th>
+          <th>Activity</th>
+          <th>Scripts</th>
+          <th>Score</th>
+          <th>Percentage</th>
+          <th>Bookmarks</th>
+          <th>POS</th>
+          <th>Grammar Scores</th>
+          <th>Comprehension score</th>
+          <th>Factual score</th>
+          <th>Bookmark score</th>
+          <th>Pace score</th>
+        </tr>
+        <tr>
+          <td></td>
+          <td></td> 
+          <td></td>
+          <td></td>
+          <td></td>
+          <td></td>
+          <td></td>
+          <td></td>
+          <td></td>
+          <td></td>
+          <td></td>
+          <td></td>
+          <td></td>
+          <td></td>
+          <td></td>
+          <td></td>
+          <td></td>
+          <td></td>
+          <td></td>
+          <td></td>
+        </tr>
+      </table>
+
+<script>
+    var d1 = new Date();
+    document.getElementById("currentDate").innerHTML = d1.getMonth();
+</script>
+</body>
+</html>

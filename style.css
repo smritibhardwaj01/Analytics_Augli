@@ -1,0 +1,12 @@
+#myTable{
+    margin-top: 10px;
+    width: 90%;
+    position: relative;
+    left: 0.2%;
+}
+
+#macroTable{
+    width:40%;
+    position: relative;
+    left: 30%;
+}
