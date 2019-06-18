@@ -9,6 +9,7 @@
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css">
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.0/jquery.min.js"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js"></script>
+    
     <script src="main.js"></script>
 </head>
 <body>
@@ -21,11 +22,11 @@
     </select>
 
     <select id='filterDate' style='display:inline-block' onchange='filterDate()'>
-            <option value='' id="currentDate" ></option>
-            <option value='' id="currentDate1"></option>
+            <option value='' id="currentDate1" ></option>
             <option value='' id="currentDate2"></option>
             <option value='' id="currentDate3"></option>
             <option value='' id="currentDate4"></option>
+            <option value='' id="currentDate5"></option>
             <option selected>All</option>
     </select>
 
@@ -56,10 +57,10 @@
           <th>Duration (sec)</th>
           <th>Date</th>
           <th>Timestamp</th>
-          <th>Page</th>
-          <th>Activity</th>
-          <th>Scripts</th>
-          <th>Score</th>
+          <th>Total Acitivities</th>
+          <th>Grammar Activities</th>
+          <th>Last Activity</th>
+          <!-- <th>Score</th>
           <th>Percentage</th>
           <th>Bookmarks</th>
           <th>POS</th>
@@ -67,51 +68,52 @@
           <th>Comprehension score</th>
           <th>Factual score</th>
           <th>Bookmark score</th>
-          <th>Pace score</th>
+          <th>Pace score</th> -->
         </tr>
-        <tr>
-          <td></td>
-          <td></td> 
-          <td></td>
-          <td></td>
-          <td></td>
-          <td></td>
-          <td></td>
-          <td></td>
-          <td></td>
-          <td></td>
-          <td></td>
-          <td></td>
-          <td></td>
-          <td></td>
-          <td></td>
-          <td></td>
-          <td></td>
-          <td></td>
-          <td></td>
-          <td></td>
-        </tr>
+        
       </table>
 
 <script>
     var d1 = new Date();
-    var d2 = new Date();
-    var d3 = new Date();
-    var d4 = new Date();
-    var d5 = new Date();
-    // var date = d1.getDate();
-    // var month = d1.getMonth();
-    // var year = d1.getFullYear();
-    // var dateString = date+"-"+month+"-"+year;
-    d2.setDate(d1.getDate()-1);
-    d3.setDate(d1.getDate()-2);
-    d4.setDate(d1.getDate()-3);
-    d5.setDate(d1.getDate()-4);
-    document.getElementById("currentDate").innerHTML = d1.getDate();
-    document.getElementById("currentDate1").innerHTML = d2.getDate();
-    document.getElementById("currentDate2").innerHTML = d3.getDate();
-    document.getElementById("currentDate3").innerHTML = d4.getDate();
-    document.getElementById("currentDate4").innerHTML = d5.getDate();
+    var year = d1.getFullYear();
+    var month = d1.getMonth();
+    var date1 = d1.getDate();
+    var dateString1 = year+"-"+month+"-"+date1;
+    var date2 = date1-1;
+    var dateString2 = year+"-"+month+"-"+date2;
+    var date3 = date1-2;
+    var dateString3 = year+"-"+month+"-"+date3;
+    var date4 = date1-3;
+    var dateString4 = year+"-"+month+"-"+date4;
+    var date5 = date1-4;
+    var dateString5 = year+"-"+month+"-"+date5;
+    document.getElementById("currentDate1").innerHTML = dateString1;
+    document.getElementById("currentDate2").innerHTML = dateString2;
+    document.getElementById("currentDate3").innerHTML = dateString3;
+    document.getElementById("currentDate4").innerHTML = dateString4;
+    document.getElementById("currentDate5").innerHTML = dateString5;
+
+    $(document).ready(function(){
+        $.getJSON("main.json",function(data){
+            var student = '';
+            $.each(data,function(key,value){
+                student += '<tr>';
+                student += '<td>'+value.id+'</td>';
+                student += '<td>'+value.user_name+'</td>';
+                student += '<td>'+value.name+'</td>';
+                student += '<td>'+value.grade+'</td>';
+                student += '<td>'+value.school+'</td>';
+                student += '<td>'+value.duration+'</td>';
+                student += '<td>'+value.date+'</td>';
+                student += '<td>'+value.Timestamp+'</td>';
+                student += '<td>'+value.n_activity+'</td>';
+                student += '<td>'+value.n_grammar+'</td>';
+                student += '<td>'+value.n_last+'</td>';
+                student += '</tr>';
+            });
+            $('#myTable').append(student);
+        });
+    });
 </script>
 </body>
 </html>
