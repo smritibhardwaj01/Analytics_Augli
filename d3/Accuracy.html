@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>AugLi Analytics</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" type="text/css" media="screen" href="style.css" />
+    <script src="https://d3js.org/d3.v5.min.js"></script>
+    
+</head>
+<body>
+    <ul>
+        <li>
+            <a href="#first">Overall</a>
+            <a href="#second">Schoolwise</a>
+            <a href="Activity.html">Activity</a>
+            <a href="Coverage.html">Coverage</a>
+        </li>
+    </ul>
+    <div class="x">
+        <select id="d3-dropdown">
+            <option value="Schools">Schools</option>
+            <option value="All">All</option>
+            <option value="Indus">Indus</option>
+            <option value="Indus Indore">Indus Indore</option>
+            <option value="Indus Ludhiana">Indus Ludhiana</option>
+            <option value="Indus Gurgaon">Indus Gurgaon</option>
+            <option value="Learning Paths Chandigarh">Learning Paths Chandigarh</option>
+    </select>
+    <select id="subject-dropdown">
+            <option value="Subject">Subject</option>
+            <option value="Grammar">Grammar</option>
+            <option value="Verb">Verb</option>
+            <option value="Adverb">Adverb</option>
+            <option value="Noun">Noun</option>
+            <option value="Pronoun">Pronoun</option>
+            <option value="Preposition">Preposition</option>
+            <option value="Adjectives">Adjectives</option>
+            <option value="Pronoun">Pronoun</option>
+            <option value="Reading">Reading</option>
+    </select>
+    <select id="date-dropdown">
+        <option value="Time Period">Time Period</option>
+        <option value="Weekly">Weekly</option>
+        <option value="Monthly">Monthly</option>
+        <option value="Quarterly">Quarterly</option>
+    </select>
+    </div>
+        </br></br>
+        <div class="row">
+            <div id="trend" class="col-md-4">
+                <script type="text/javascript" src="accuracy.js"></script>
+            </div>
+            <div id="wordcoach" class="col-md-12" >
+                <h3>Schoolwise Wordcoach Accuracy</h3>
+                <script type="text/javascript" src="wordcoach.js"></script>
+            </div></br></br>
+            <div id="exit" class="col-md-4">
+                <h3>Schoolwise Exit Rate</h3>
+                <script type="text/javascript" src="exitRate.js"></script>
+            </div>
+        </div>
+   
+    
+</body>
+</html>

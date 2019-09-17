@@ -1,0 +1,393 @@
+{
+"Indus":
+    {
+        "Till Date":
+        {
+            "Percentage":
+            {
+                "active1day": 10,
+                "active>1day": 11,
+                "inactives": 30
+            },
+            "Frequency":
+            {
+                "active1day": 125,
+                "active>1day": 125,
+                "inactives": 250
+            }
+        },
+        "Last Week":
+        {
+            "Percentage":
+            {
+                "active1day": 25,
+                "active>1day": 25,
+                "inactives": 50
+            },
+            "Frequency":
+            {
+                "active1day": 25,
+                "active>1day": 25,
+                "inactives": 50
+            }
+        },
+        "Last 15 days":
+        {
+            "Percentage":
+            {
+                "active1day": 25,
+                "active>1day": 25,
+                "inactives": 50
+            },
+            "Frequency":
+            {
+                "active1day": 25,
+                "active>1day": 25,
+                "inactives": 50
+            }
+        },
+        "Last 1 Month":
+        {
+            "Percentage":
+            {
+                "active1day": 25,
+                "active>1day": 25,
+                "inactives": 50
+            },
+            "Frequency":
+            {
+                "active1day": 25,
+                "active>1day": 25,
+                "inactives": 50
+            }
+        },
+        "Last Quarter":
+        {
+            "Percentage":
+            {
+                "active1day": 25,
+                "active>1day": 25,
+                "inactives": 50
+            },
+            "Frequency":
+            {
+                "active1day": 25,
+                "active>1day": 25,
+                "inactives": 50
+            }
+        }
+    },
+"Indus Indore":
+{
+    "Till Date":
+    {
+        "Percentage":
+        {
+            "active1day": 25,
+            "active>1day": 25,
+            "inactives": 50
+        },
+        "Frequency":
+        {
+            "active1day": 25,
+            "active>1day": 25,
+            "inactives": 50
+        }
+    },
+    "Last Week":
+    {
+        "Percentage":
+        {
+            "active1day": 16,
+            "active>1day": 25,
+            "inactives": 50
+        },
+        "Frequency":
+        {
+            "active1day": 25,
+            "active>1day": 25,
+            "inactives": 50
+        }
+    },
+    "Last 15 days":
+    {
+        "Percentage":
+        {
+            "active1day": 25,
+            "active>1day": 25,
+            "inactives": 50
+        },
+        "Frequency":
+        {
+            "active1day": 25,
+            "active>1day": 25,
+            "inactives": 50
+        }
+    },
+    "Last 1 Month":
+        {
+            "Percentage":
+            {
+                "active1day": 25,
+                "active>1day": 25,
+                "inactives": 50
+            },
+            "Frequency":
+            {
+                "active1day": 25,
+                "active>1day": 25,
+                "inactives": 50
+            }
+        },
+    "Last Quarter":
+    {
+        "Percentage":
+        {
+            "active1day": 25,
+            "active>1day": 25,
+            "inactives": 50
+        },
+        "Frequency":
+        {
+            "active1day": 25,
+            "active>1day": 25,
+            "inactives": 50
+        }
+    }
+},
+"Indus Ludhiana":
+{
+    "Till Date":
+    {
+        "Percentage":
+        {
+            "active1day": 25,
+            "active>1day": 25,
+            "inactives": 50
+        },
+        "Frequency":
+        {
+            "active1day": 25,
+            "active>1day": 25,
+            "inactives": 50
+        }
+    },
+    "Last Week":
+    {
+        "Percentage":
+        {
+            "active1day": 25,
+            "active>1day": 25,
+            "inactives": 50
+        },
+        "Frequency":
+        {
+            "active1day": 25,
+            "active>1day": 25,
+            "inactives": 50
+        }
+    },
+    "Last 15 days":
+    {
+        "Percentage":
+        {
+            "active1day": 25,
+            "active>1day": 25,
+            "inactives": 50
+        },
+        "Frequency":
+        {
+            "active1day": 25,
+            "active>1day": 25,
+            "inactives": 50
+        }
+    },
+    "Last 1 Month":
+        {
+            "Percentage":
+            {
+                "active1day": 25,
+                "active>1day": 25,
+                "inactives": 50
+            },
+            "Frequency":
+            {
+                "active1day": 25,
+                "active>1day": 25,
+                "inactives": 50
+            }
+        },
+    "Last Quarter":
+    {
+        "Percentage":
+        {
+            "active1day": 25,
+            "active>1day": 25,
+            "inactives": 50
+        },
+        "Frequency":
+        {
+            "active1day": 25,
+            "active>1day": 25,
+            "inactives": 50
+        }
+    }
+},
+"Indus Gurgaon":
+{
+    "Till Date":
+    {
+        "Percentage":
+        {
+            "active1day": 25,
+            "active>1day": 25,
+            "inactives": 50
+        },
+        "Frequency":
+        {
+            "active1day": 25,
+            "active>1day": 25,
+            "inactives": 50
+        }
+    },
+    "Last Week":
+    {
+        "Percentage":
+        {
+            "active1day": 25,
+            "active>1day": 25,
+            "inactives": 50
+        },
+        "Frequency":
+        {
+            "active1day": 25,
+            "active>1day": 25,
+            "inactives": 50
+        }
+    },
+    "Last 15 days":
+    {
+        "Percentage":
+        {
+            "active1day": 25,
+            "active>1day": 25,
+            "inactives": 50
+        },
+        "Frequency":
+        {
+            "active1day": 25,
+            "active>1day": 25,
+            "inactives": 50
+        }
+    },
+    "Last 1 Month":
+        {
+            "Percentage":
+            {
+                "active1day": 25,
+                "active>1day": 25,
+                "inactives": 50
+            },
+            "Frequency":
+            {
+                "active1day": 25,
+                "active>1day": 25,
+                "inactives": 50
+            }
+        },
+    "Last Quarter":
+    {
+        "Percentage":
+        {
+            "active1day": 25,
+            "active>1day": 25,
+            "inactives": 50
+        },
+        "Frequency":
+        {
+            "active1day": 25,
+            "active>1day": 25,
+            "inactives": 50
+        }
+    }
+},
+"Learning Paths Chandigarh":
+{
+    "Till Date":
+    {
+        "Percentage":
+        {
+            "active1day": 25,
+            "active>1day": 25,
+            "inactives": 50
+        },
+        "Frequency":
+        {
+            "active1day": 25,
+            "active>1day": 25,
+            "inactives": 50
+        }
+    },
+    "Last Week":
+    {
+        "Percentage":
+        {
+            "active1day": 25,
+            "active>1day": 25,
+            "inactives": 50
+        },
+        "Frequency":
+        {
+            "active1day": 25,
+            "active>1day": 25,
+            "inactives": 50
+        }
+    },
+    "Last 15 days":
+    {
+        "Percentage":
+        {
+            "active1day": 25,
+            "active>1day": 25,
+            "inactives": 50
+        },
+        "Frequency":
+        {
+            "active1day": 25,
+            "active>1day": 25,
+            "inactives": 50
+        }
+    },
+    "Last 1 Month":
+        {
+            "Percentage":
+            {
+                "active1day": 25,
+                "active>1day": 25,
+                "inactives": 50
+            },
+            "Frequency":
+            {
+                "active1day": 25,
+                "active>1day": 25,
+                "inactives": 50
+            }
+        },
+    "Last Quarter":
+    {
+        "Percentage":
+        {
+            "active1day": 25,
+            "active>1day": 25,
+            "inactives": 50
+        },
+        "Frequency":
+        {
+            "active1day": 25,
+            "active>1day": 25,
+            "inactives": 50
+        }
+    }
+}
+
+}

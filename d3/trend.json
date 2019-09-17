@@ -1,0 +1,4800 @@
+{
+    "All": {
+        "Bookmarks" : [
+            {
+                "Week": 1,
+                "Date":"30/04-05/05",
+                "Month": 5,
+                "Quarter":2,
+                "Accuracy": 2,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 2,
+                "Date": "06/05-12/05",
+                "Month": 5,
+                "Quarter":2,
+                "Accuracy": 5,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 3,
+                "Date":"13/05-19/05",
+                "Month": 5,
+                "Quarter":2,
+                "Accuracy": 10,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 4,
+                "Date": "20/05-26/05",
+                "Month": 5,
+                "Quarter":2,
+                "Accuracy": 11,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 5,
+                "Date":"27/05-02/06",
+                "Month": 6,
+                "Quarter":2,
+                "Accuracy": 11,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 6,
+                "Date": "03/06-09/06",
+                "Month": 6,
+                "Quarter":2,
+                "Accuracy": 50,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 7,
+                "Date": "13/05-19/05",
+                "Month": 6,
+                "Quarter":2,
+                "Accuracy": 50,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 8,
+                "Date":"10/06-16/06",
+                "Month": 6,
+                "Quarter":2,
+                "Accuracy": 60,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 9,
+                "Date":"10/06-16/06",
+                "Month": 7,
+                "Quarter":2,
+                "Accuracy": 80,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 10,
+                "Date": "10/06-16/06",
+                "Month": 7,
+                "Quarter":2,
+                "Accuracy": 100,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 11,
+                "Date":"10/06-16/06",
+                "Month": 7,
+                "Quarter":2,
+                "Accuracy": 110,
+                "ActivitiesNumber": 20,
+                "Time": 40
+                
+             }
+         ],
+        "Grammar" : [
+            {
+                "Week": 1,
+                "Date":"30/04-05/05",
+                "Month": 5,
+                "Quarter":2,
+                "Accuracy": 50,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 2,
+                "Date": "06/05-12/05",
+                "Month": 5,
+                "Quarter":2,
+                "Accuracy": 100,
+                "ActivitiesNumber": 30,
+                "Time": 50
+             },
+             {
+                "Week": 3,
+                "Date":"13/05-19/05",
+                "Month": 5,
+                "Quarter":2,
+                "Accuracy": 99,
+                "ActivitiesNumber": 40,
+                "Time": 60
+             },
+             {
+                "Week": 4,
+                "Date": "20/05-26/05",
+                "Month": 5,
+                "Quarter":2,
+                "Accuracy": 20,
+                "ActivitiesNumber": 50,
+                "Time": 70
+             },
+             {
+                "Week": 5,
+                "Date":"27/05-02/06",
+                "Month": 6,
+                "Quarter":2,
+                "Accuracy": 42,
+                "ActivitiesNumber": 60,
+                "Time": 80
+             },
+             {
+                "Week": 6,
+                "Date": "03/06-09/06",
+                "Month": 6,
+                "Quarter":2,
+                "Accuracy": 44,
+                "ActivitiesNumber": 70,
+                "Time": 90
+             },
+             {
+                "Week": 7,
+                "Date": "13/05-19/05",
+                "Month": 6,
+                "Quarter":2,
+                "Accuracy": 26,
+                "ActivitiesNumber": 80,
+                "Time": 100
+             },
+             {
+                "Week": 8,
+                "Date":"10/06-16/06",
+                "Month": 6,
+                "Quarter":2,
+                "Accuracy": 29,
+                "ActivitiesNumber": 90,
+                "Time": 110
+             },
+             {
+                "Week": 9,
+                "Date":"10/06-16/06",
+                "Month": 7,
+                "Quarter":2,
+                "Accuracy": 11,
+                "ActivitiesNumber": 100,
+                "Time": 120
+             },
+             {
+                "Week": 10,
+                "Date": "10/06-16/06",
+                "Month": 7,
+                "Quarter":2,
+                "Accuracy": 33,
+                "ActivitiesNumber": 120,
+                "Time": 130
+             },
+             {
+                "Week": 11,
+                "Date":"10/06-16/06",
+                "Month": 7,
+                "Quarter":2,
+                "Accuracy": 66,
+                "ActivitiesNumber": 130,
+                "Time": 140
+                
+             }
+         ],
+         "Verb" : [
+            {
+                "Week": 1,
+                "Date":"30/04-05/05",
+                "Month": 5,
+                "Quarter":2,
+                "Accuracy": 10,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 2,
+                "Date": "06/05-12/05",
+                "Month": 5,
+                "Quarter":2,
+                "Accuracy": 20,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 3,
+                "Date":"13/05-19/05",
+                "Month": 5,
+                "Quarter":2,
+                "Accuracy": 30,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 4,
+                "Date": "20/05-26/05",
+                "Month": 5,
+                "Quarter":2,
+                "Accuracy": 40,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 5,
+                "Date":"27/05-02/06",
+                "Month": 6,
+                "Quarter":2,
+                "Accuracy": 50,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 6,
+                "Date": "03/06-09/06",
+                "Month": 6,
+                "Quarter":2,
+                "Accuracy": 60,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 7,
+                "Date": "13/05-19/05",
+                "Month": 6,
+                "Quarter":2,
+                "Accuracy": 70,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 8,
+                "Date":"10/06-16/06",
+                "Month": 6,
+                "Quarter":2,
+                "Accuracy": 80,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 9,
+                "Date":"10/06-16/06",
+                "Month": 7,
+                "Quarter":2,
+                "Accuracy": 90,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 10,
+                "Date": "10/06-16/06",
+                "Month": 7,
+                "Quarter":2,
+                "Accuracy": 100,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 11,
+                "Date":"10/06-16/06",
+                "Month": 7,
+                "Quarter":2,
+                "Accuracy": 100,
+                "ActivitiesNumber": 20,
+                "Time": 40
+                
+             }
+         ],
+         "Adverb" : [
+            {
+                "Week": 1,
+                "Date":"30/04-05/05",
+                "Month": 5,
+                "Quarter":2,
+                "Accuracy": 50,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 2,
+                "Date": "06/05-12/05",
+                "Month": 5,
+                "Quarter":2,
+                "Accuracy": 100,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 3,
+                "Date":"13/05-19/05",
+                "Month": 5,
+                "Quarter":2,
+                "Accuracy": 99,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 4,
+                "Date": "20/05-26/05",
+                "Month": 5,
+                "Quarter":2,
+                "Accuracy": 20,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 5,
+                "Date":"27/05-02/06",
+                "Month": 6,
+                "Quarter":2,
+                "Accuracy": 42,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 6,
+                "Date": "03/06-09/06",
+                "Month": 6,
+                "Quarter":2,
+                "Accuracy": 44,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 7,
+                "Date": "13/05-19/05",
+                "Month": 6,
+                "Quarter":2,
+                "Accuracy": 26,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 8,
+                "Date":"10/06-16/06",
+                "Month": 6,
+                "Quarter":2,
+                "Accuracy": 29,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 9,
+                "Date":"10/06-16/06",
+                "Month": 7,
+                "Quarter":2,
+                "Accuracy": 11,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 10,
+                "Date": "10/06-16/06",
+                "Month": 7,
+                "Quarter":2,
+                "Accuracy": 33,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 11,
+                "Date":"10/06-16/06",
+                "Month": 7,
+                "Quarter":2,
+                "Accuracy": 66,
+                "ActivitiesNumber": 20,
+                "Time": 40
+                
+             }
+         ],
+         "Adjectives" : [
+            {
+                "Week": 1,
+                "Date":"30/04-05/05",
+                "Month": 5,
+                "Quarter":2,
+                "Accuracy": 50,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 2,
+                "Date": "06/05-12/05",
+                "Month": 5,
+                "Quarter":2,
+                "Accuracy": 100,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 3,
+                "Date":"13/05-19/05",
+                "Month": 5,
+                "Quarter":2,
+                "Accuracy": 99,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 4,
+                "Date": "20/05-26/05",
+                "Month": 5,
+                "Quarter":2,
+                "Accuracy": 20,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 5,
+                "Date":"27/05-02/06",
+                "Month": 6,
+                "Quarter":2,
+                "Accuracy": 42,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 6,
+                "Date": "03/06-09/06",
+                "Month": 6,
+                "Quarter":2,
+                "Accuracy": 44,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 7,
+                "Date": "13/05-19/05",
+                "Month": 6,
+                "Quarter":2,
+                "Accuracy": 26,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 8,
+                "Date":"10/06-16/06",
+                "Month": 6,
+                "Quarter":2,
+                "Accuracy": 29,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 9,
+                "Date":"10/06-16/06",
+                "Month": 7,
+                "Quarter":2,
+                "Accuracy": 11,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 10,
+                "Date": "10/06-16/06",
+                "Month": 7,
+                "Quarter":2,
+                "Accuracy": 33,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 11,
+                "Date":"10/06-16/06",
+                "Month": 7,
+                "Quarter":2,
+                "Accuracy": 66,
+                "ActivitiesNumber": 20,
+                "Time": 40
+                
+             }
+         ],
+         "Noun" : [
+            {
+                "Week": 1,
+                "Date":"30/04-05/05",
+                "Month": 5,
+                "Quarter":2,
+                "Accuracy": 50,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 2,
+                "Date": "06/05-12/05",
+                "Month": 5,
+                "Quarter":2,
+                "Accuracy": 100,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 3,
+                "Date":"13/05-19/05",
+                "Month": 5,
+                "Quarter":2,
+                "Accuracy": 99,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 4,
+                "Date": "20/05-26/05",
+                "Month": 5,
+                "Quarter":2,
+                "Accuracy": 20,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 5,
+                "Date":"27/05-02/06",
+                "Month": 6,
+                "Quarter":2,
+                "Accuracy": 42,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 6,
+                "Date": "03/06-09/06",
+                "Month": 6,
+                "Quarter":2,
+                "Accuracy": 44,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 7,
+                "Date": "13/05-19/05",
+                "Month": 6,
+                "Quarter":2,
+                "Accuracy": 26,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 8,
+                "Date":"10/06-16/06",
+                "Month": 6,
+                "Quarter":2,
+                "Accuracy": 29,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 9,
+                "Date":"10/06-16/06",
+                "Month": 7,
+                "Quarter":2,
+                "Accuracy": 11,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 10,
+                "Date": "10/06-16/06",
+                "Month": 7,
+                "Quarter":2,
+                "Accuracy": 33,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 11,
+                "Date":"10/06-16/06",
+                "Month": 7,
+                "Quarter":2,
+                "Accuracy": 66,
+                "ActivitiesNumber": 20,
+                "Time": 40
+                
+             }
+         ],
+         "Preposition" : [
+            {
+                "Week": 1,
+                "Date":"30/04-05/05",
+                "Month": 5,
+                "Quarter":2,
+                "Accuracy": 50,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 2,
+                "Date": "06/05-12/05",
+                "Month": 5,
+                "Quarter":2,
+                "Accuracy": 100,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 3,
+                "Date":"13/05-19/05",
+                "Month": 5,
+                "Quarter":2,
+                "Accuracy": 99,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 4,
+                "Date": "20/05-26/05",
+                "Month": 5,
+                "Quarter":2,
+                "Accuracy": 20,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 5,
+                "Date":"27/05-02/06",
+                "Month": 6,
+                "Quarter":2,
+                "Accuracy": 42,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 6,
+                "Date": "03/06-09/06",
+                "Month": 6,
+                "Quarter":2,
+                "Accuracy": 44,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 7,
+                "Date": "13/05-19/05",
+                "Month": 6,
+                "Quarter":2,
+                "Accuracy": 26,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 8,
+                "Date":"10/06-16/06",
+                "Month": 6,
+                "Quarter":2,
+                "Accuracy": 29,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 9,
+                "Date":"10/06-16/06",
+                "Month": 7,
+                "Quarter":2,
+                "Accuracy": 11,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 10,
+                "Date": "10/06-16/06",
+                "Month": 7,
+                "Quarter":2,
+                "Accuracy": 33,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 11,
+                "Date":"10/06-16/06",
+                "Month": 7,
+                "Quarter":2,
+                "Accuracy": 66,
+                "ActivitiesNumber": 20,
+                "Time": 40
+                
+             }
+         ],
+         "Pronoun" : [
+            {
+                "Week": 1,
+                "Date":"30/04-05/05",
+                "Month": 5,
+                "Quarter":2,
+                "Accuracy": 50,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 2,
+                "Date": "06/05-12/05",
+                "Month": 5,
+                "Quarter":2,
+                "Accuracy": 100,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 3,
+                "Date":"13/05-19/05",
+                "Month": 5,
+                "Quarter":2,
+                "Accuracy": 99,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 4,
+                "Date": "20/05-26/05",
+                "Month": 5,
+                "Quarter":2,
+                "Accuracy": 20,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 5,
+                "Date":"27/05-02/06",
+                "Month": 6,
+                "Quarter":2,
+                "Accuracy": 42,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 6,
+                "Date": "03/06-09/06",
+                "Month": 6,
+                "Quarter":2,
+                "Accuracy": 44,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 7,
+                "Date": "13/05-19/05",
+                "Month": 6,
+                "Quarter":2,
+                "Accuracy": 26,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 8,
+                "Date":"10/06-16/06",
+                "Month": 6,
+                "Quarter":2,
+                "Accuracy": 29,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 9,
+                "Date":"10/06-16/06",
+                "Month": 7,
+                "Quarter":2,
+                "Accuracy": 11,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 10,
+                "Date": "10/06-16/06",
+                "Month": 7,
+                "Quarter":2,
+                "Accuracy": 33,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 11,
+                "Date":"10/06-16/06",
+                "Month": 7,
+                "Quarter":2,
+                "Accuracy": 66,
+                "ActivitiesNumber": 20,
+                "Time": 40
+                
+             }
+         ]
+    },
+    "Indus Gurgaon": {
+        "Bookmarks" : [
+        {
+            "Week": 1,
+            "Date":"30/04-05/05",
+            "Month": 5,
+            "Quarter":2,
+            "Number": 2
+         },
+         {
+            "Week": 2,
+            "Date": "06/05-12/05",
+            "Month": 5,
+            "Quarter":2,
+            "Number": 5
+         },
+         {
+            "Week": 3,
+            "Date":"13/05-19/05",
+            "Month": 5,
+            "Quarter":2,
+            "Number": 10
+         },
+         {
+            "Week": 4,
+            "Date": "20/05-26/05",
+            "Month": 5,
+            "Quarter":2,
+            "Number": 11
+         },
+         {
+            "Week": 5,
+            "Date":"27/05-02/06",
+            "Month": 6,
+            "Quarter":2,
+            "Number": 11
+         },
+         {
+            "Week": 6,
+            "Date": "03/06-09/06",
+            "Month": 6,
+            "Quarter":2,
+            "Number": 50
+         },
+         {
+            "Week": 7,
+            "Date": "13/05-19/05",
+            "Month": 6,
+            "Quarter":2,
+            "Number": 50
+         },
+         {
+            "Week": 8,
+            "Date":"10/06-16/06",
+            "Month": 6,
+            "Quarter":2,
+            "Number": 60
+         },
+         {
+            "Week": 9,
+            "Date":"10/06-16/06",
+            "Month": 7,
+            "Quarter":2,
+            "Number": 80
+         },
+         {
+            "Week": 10,
+            "Date": "10/06-16/06",
+            "Month": 7,
+            "Quarter":2,
+            "Number": 100
+         },
+         {
+            "Week": 11,
+            "Date":"10/06-16/06",
+            "Month": 7,
+            "Quarter":2,
+            "Number": 110
+            
+         }
+     ],
+        "Grammar" : [
+            {
+                "Week": 1,
+                "Date":"30/04-05/05",
+                "Month": 5,
+                "Quarter":2,
+                "Accuracy": 50,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 2,
+                "Date": "06/05-12/05",
+                "Month": 5,
+                "Quarter":2,
+                "Accuracy": 100,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 3,
+                "Date":"13/05-19/05",
+                "Month": 5,
+                "Quarter":2,
+                "Accuracy": 99,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 4,
+                "Date": "20/05-26/05",
+                "Month": 5,
+                "Quarter":2,
+                "Accuracy": 20,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 5,
+                "Date":"27/05-02/06",
+                "Month": 6,
+                "Quarter":2,
+                "Accuracy": 42,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 6,
+                "Date": "03/06-09/06",
+                "Month": 6,
+                "Quarter":2,
+                "Accuracy": 44,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 7,
+                "Date": "13/05-19/05",
+                "Month": 6,
+                "Quarter":2,
+                "Accuracy": 26,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 8,
+                "Date":"10/06-16/06",
+                "Month": 6,
+                "Quarter":2,
+                "Accuracy": 29,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 9,
+                "Date":"10/06-16/06",
+                "Month": 7,
+                "Quarter":2,
+                "Accuracy": 11,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 10,
+                "Date": "10/06-16/06",
+                "Month": 7,
+                "Quarter":2,
+                "Accuracy": 33,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 11,
+                "Date":"10/06-16/06",
+                "Month": 7,
+                "Quarter":2,
+                "Accuracy": 66,
+                "ActivitiesNumber": 20,
+                "Time": 40
+                
+             }
+         ],
+         "Verb" : [
+            {
+                "Week": 1,
+                "Date":"30/04-05/05",
+                "Month": 5,
+                "Quarter":2,
+                "Accuracy": 50,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 2,
+                "Date": "06/05-12/05",
+                "Month": 5,
+                "Quarter":2,
+                "Accuracy": 100,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 3,
+                "Date":"13/05-19/05",
+                "Month": 5,
+                "Quarter":2,
+                "Accuracy": 99,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 4,
+                "Date": "20/05-26/05",
+                "Month": 5,
+                "Quarter":2,
+                "Accuracy": 20,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 5,
+                "Date":"27/05-02/06",
+                "Month": 6,
+                "Quarter":2,
+                "Accuracy": 42,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 6,
+                "Date": "03/06-09/06",
+                "Month": 6,
+                "Quarter":2,
+                "Accuracy": 44,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 7,
+                "Date": "13/05-19/05",
+                "Month": 6,
+                "Quarter":2,
+                "Accuracy": 26,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 8,
+                "Date":"10/06-16/06",
+                "Month": 6,
+                "Quarter":2,
+                "Accuracy": 29,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 9,
+                "Date":"10/06-16/06",
+                "Month": 7,
+                "Quarter":2,
+                "Accuracy": 11,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 10,
+                "Date": "10/06-16/06",
+                "Month": 7,
+                "Quarter":2,
+                "Accuracy": 33,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 11,
+                "Date":"10/06-16/06",
+                "Month": 7,
+                "Quarter":2,
+                "Accuracy": 66,
+                "ActivitiesNumber": 20,
+                "Time": 40
+                
+             }
+         ],
+         "Adverb" : [
+            {
+                "Week": 1,
+                "Date":"30/04-05/05",
+                "Month": 5,
+                "Quarter":2,
+                "Accuracy": 50,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 2,
+                "Date": "06/05-12/05",
+                "Month": 5,
+                "Quarter":2,
+                "Accuracy": 100,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 3,
+                "Date":"13/05-19/05",
+                "Month": 5,
+                "Quarter":2,
+                "Accuracy": 99,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 4,
+                "Date": "20/05-26/05",
+                "Month": 5,
+                "Quarter":2,
+                "Accuracy": 20,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 5,
+                "Date":"27/05-02/06",
+                "Month": 6,
+                "Quarter":2,
+                "Accuracy": 42,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 6,
+                "Date": "03/06-09/06",
+                "Month": 6,
+                "Quarter":2,
+                "Accuracy": 44,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 7,
+                "Date": "13/05-19/05",
+                "Month": 6,
+                "Quarter":2,
+                "Accuracy": 26,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 8,
+                "Date":"10/06-16/06",
+                "Month": 6,
+                "Quarter":2,
+                "Accuracy": 29,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 9,
+                "Date":"10/06-16/06",
+                "Month": 7,
+                "Quarter":2,
+                "Accuracy": 11,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 10,
+                "Date": "10/06-16/06",
+                "Month": 7,
+                "Quarter":2,
+                "Accuracy": 33,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 11,
+                "Date":"10/06-16/06",
+                "Month": 7,
+                "Quarter":2,
+                "Accuracy": 66,
+                "ActivitiesNumber": 20,
+                "Time": 40
+                
+             }
+         ],
+         "Adjectives" : [
+            {
+                "Week": 1,
+                "Date":"30/04-05/05",
+                "Month": 5,
+                "Quarter":2,
+                "Accuracy": 50,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 2,
+                "Date": "06/05-12/05",
+                "Month": 5,
+                "Quarter":2,
+                "Accuracy": 100,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 3,
+                "Date":"13/05-19/05",
+                "Month": 5,
+                "Quarter":2,
+                "Accuracy": 99,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 4,
+                "Date": "20/05-26/05",
+                "Month": 5,
+                "Quarter":2,
+                "Accuracy": 20,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 5,
+                "Date":"27/05-02/06",
+                "Month": 6,
+                "Quarter":2,
+                "Accuracy": 42,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 6,
+                "Date": "03/06-09/06",
+                "Month": 6,
+                "Quarter":2,
+                "Accuracy": 44,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 7,
+                "Date": "13/05-19/05",
+                "Month": 6,
+                "Quarter":2,
+                "Accuracy": 26,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 8,
+                "Date":"10/06-16/06",
+                "Month": 6,
+                "Quarter":2,
+                "Accuracy": 29,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 9,
+                "Date":"10/06-16/06",
+                "Month": 7,
+                "Quarter":2,
+                "Accuracy": 11,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 10,
+                "Date": "10/06-16/06",
+                "Month": 7,
+                "Quarter":2,
+                "Accuracy": 33,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 11,
+                "Date":"10/06-16/06",
+                "Month": 7,
+                "Quarter":2,
+                "Accuracy": 66,
+                "ActivitiesNumber": 20,
+                "Time": 40
+                
+             }
+         ],
+         "Noun" : [
+            {
+                "Week": 1,
+                "Date":"30/04-05/05",
+                "Month": 5,
+                "Quarter":2,
+                "Accuracy": 50,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 2,
+                "Date": "06/05-12/05",
+                "Month": 5,
+                "Quarter":2,
+                "Accuracy": 100,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 3,
+                "Date":"13/05-19/05",
+                "Month": 5,
+                "Quarter":2,
+                "Accuracy": 99,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 4,
+                "Date": "20/05-26/05",
+                "Month": 5,
+                "Quarter":2,
+                "Accuracy": 20,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 5,
+                "Date":"27/05-02/06",
+                "Month": 6,
+                "Quarter":2,
+                "Accuracy": 42,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 6,
+                "Date": "03/06-09/06",
+                "Month": 6,
+                "Quarter":2,
+                "Accuracy": 44,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 7,
+                "Date": "13/05-19/05",
+                "Month": 6,
+                "Quarter":2,
+                "Accuracy": 26,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 8,
+                "Date":"10/06-16/06",
+                "Month": 6,
+                "Quarter":2,
+                "Accuracy": 29,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 9,
+                "Date":"10/06-16/06",
+                "Month": 7,
+                "Quarter":2,
+                "Accuracy": 11,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 10,
+                "Date": "10/06-16/06",
+                "Month": 7,
+                "Quarter":2,
+                "Accuracy": 33,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 11,
+                "Date":"10/06-16/06",
+                "Month": 7,
+                "Quarter":2,
+                "Accuracy": 66,
+                "ActivitiesNumber": 20,
+                "Time": 40
+                
+             }
+         ],
+         "Preposition" : [
+            {
+                "Week": 1,
+                "Date":"30/04-05/05",
+                "Month": 5,
+                "Quarter":2,
+                "Accuracy": 50,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 2,
+                "Date": "06/05-12/05",
+                "Month": 5,
+                "Quarter":2,
+                "Accuracy": 100,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 3,
+                "Date":"13/05-19/05",
+                "Month": 5,
+                "Quarter":2,
+                "Accuracy": 99,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 4,
+                "Date": "20/05-26/05",
+                "Month": 5,
+                "Quarter":2,
+                "Accuracy": 20,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 5,
+                "Date":"27/05-02/06",
+                "Month": 6,
+                "Quarter":2,
+                "Accuracy": 42,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 6,
+                "Date": "03/06-09/06",
+                "Month": 6,
+                "Quarter":2,
+                "Accuracy": 44,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 7,
+                "Date": "13/05-19/05",
+                "Month": 6,
+                "Quarter":2,
+                "Accuracy": 26,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 8,
+                "Date":"10/06-16/06",
+                "Month": 6,
+                "Quarter":2,
+                "Accuracy": 29,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 9,
+                "Date":"10/06-16/06",
+                "Month": 7,
+                "Quarter":2,
+                "Accuracy": 11,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 10,
+                "Date": "10/06-16/06",
+                "Month": 7,
+                "Quarter":2,
+                "Accuracy": 33,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 11,
+                "Date":"10/06-16/06",
+                "Month": 7,
+                "Quarter":2,
+                "Accuracy": 66,
+                "ActivitiesNumber": 20,
+                "Time": 40
+                
+             }
+         ],
+         "Pronoun" : [
+            {
+                "Week": 1,
+                "Date":"30/04-05/05",
+                "Month": 5,
+                "Quarter":2,
+                "Accuracy": 50,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 2,
+                "Date": "06/05-12/05",
+                "Month": 5,
+                "Quarter":2,
+                "Accuracy": 100,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 3,
+                "Date":"13/05-19/05",
+                "Month": 5,
+                "Quarter":2,
+                "Accuracy": 99,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 4,
+                "Date": "20/05-26/05",
+                "Month": 5,
+                "Quarter":2,
+                "Accuracy": 20,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 5,
+                "Date":"27/05-02/06",
+                "Month": 6,
+                "Quarter":2,
+                "Accuracy": 42,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 6,
+                "Date": "03/06-09/06",
+                "Month": 6,
+                "Quarter":2,
+                "Accuracy": 44,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 7,
+                "Date": "13/05-19/05",
+                "Month": 6,
+                "Quarter":2,
+                "Accuracy": 26,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 8,
+                "Date":"10/06-16/06",
+                "Month": 6,
+                "Quarter":2,
+                "Accuracy": 29,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 9,
+                "Date":"10/06-16/06",
+                "Month": 7,
+                "Quarter":2,
+                "Accuracy": 11,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 10,
+                "Date": "10/06-16/06",
+                "Month": 7,
+                "Quarter":2,
+                "Accuracy": 33,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 11,
+                "Date":"10/06-16/06",
+                "Month": 7,
+                "Quarter":2,
+                "Accuracy": 66,
+                "ActivitiesNumber": 20,
+                "Time": 40
+                
+             }
+         ]
+    },
+    "Indus": {
+        "Bookmarks" : [
+        {
+            "Week": 1,
+            "Date":"30/04-05/05",
+            "Month": 5,
+            "Quarter":2,
+            "Number": 2
+         },
+         {
+            "Week": 2,
+            "Date": "06/05-12/05",
+            "Month": 5,
+            "Quarter":2,
+            "Number": 5
+         },
+         {
+            "Week": 3,
+            "Date":"13/05-19/05",
+            "Month": 5,
+            "Quarter":2,
+            "Number": 10
+         },
+         {
+            "Week": 4,
+            "Date": "20/05-26/05",
+            "Month": 5,
+            "Quarter":2,
+            "Number": 11
+         },
+         {
+            "Week": 5,
+            "Date":"27/05-02/06",
+            "Month": 6,
+            "Quarter":2,
+            "Number": 11
+         },
+         {
+            "Week": 6,
+            "Date": "03/06-09/06",
+            "Month": 6,
+            "Quarter":2,
+            "Number": 50
+         },
+         {
+            "Week": 7,
+            "Date": "13/05-19/05",
+            "Month": 6,
+            "Quarter":2,
+            "Number": 50
+         },
+         {
+            "Week": 8,
+            "Date":"10/06-16/06",
+            "Month": 6,
+            "Quarter":2,
+            "Number": 60
+         },
+         {
+            "Week": 9,
+            "Date":"10/06-16/06",
+            "Month": 7,
+            "Quarter":2,
+            "Number": 80
+         },
+         {
+            "Week": 10,
+            "Date": "10/06-16/06",
+            "Month": 7,
+            "Quarter":2,
+            "Number": 100
+         },
+         {
+            "Week": 11,
+            "Date":"10/06-16/06",
+            "Month": 7,
+            "Quarter":2,
+            "Number": 110
+            
+         }
+     ],
+        "Grammar" : [
+            {
+                "Week": 1,
+                "Date":"30/04-05/05",
+                "Month": 5,
+                "Quarter":2,
+                "Accuracy": 50,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 2,
+                "Date": "06/05-12/05",
+                "Month": 5,
+                "Quarter":2,
+                "Accuracy": 100,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 3,
+                "Date":"13/05-19/05",
+                "Month": 5,
+                "Quarter":2,
+                "Accuracy": 99,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 4,
+                "Date": "20/05-26/05",
+                "Month": 5,
+                "Quarter":2,
+                "Accuracy": 20,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 5,
+                "Date":"27/05-02/06",
+                "Month": 6,
+                "Quarter":2,
+                "Accuracy": 42,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 6,
+                "Date": "03/06-09/06",
+                "Month": 6,
+                "Quarter":2,
+                "Accuracy": 44,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 7,
+                "Date": "13/05-19/05",
+                "Month": 6,
+                "Quarter":2,
+                "Accuracy": 26,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 8,
+                "Date":"10/06-16/06",
+                "Month": 6,
+                "Quarter":2,
+                "Accuracy": 29,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 9,
+                "Date":"10/06-16/06",
+                "Month": 7,
+                "Quarter":2,
+                "Accuracy": 11,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 10,
+                "Date": "10/06-16/06",
+                "Month": 7,
+                "Quarter":2,
+                "Accuracy": 33,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 11,
+                "Date":"10/06-16/06",
+                "Month": 7,
+                "Quarter":2,
+                "Accuracy": 66,
+                "ActivitiesNumber": 20,
+                "Time": 40
+                
+             }
+         ],
+         "Verb" : [
+            {
+                "Week": 1,
+                "Date":"30/04-05/05",
+                "Month": 5,
+                "Quarter":2,
+                "Accuracy": 50,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 2,
+                "Date": "06/05-12/05",
+                "Month": 5,
+                "Quarter":2,
+                "Accuracy": 100,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 3,
+                "Date":"13/05-19/05",
+                "Month": 5,
+                "Quarter":2,
+                "Accuracy": 99,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 4,
+                "Date": "20/05-26/05",
+                "Month": 5,
+                "Quarter":2,
+                "Accuracy": 20,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 5,
+                "Date":"27/05-02/06",
+                "Month": 6,
+                "Quarter":2,
+                "Accuracy": 42,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 6,
+                "Date": "03/06-09/06",
+                "Month": 6,
+                "Quarter":2,
+                "Accuracy": 44,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 7,
+                "Date": "13/05-19/05",
+                "Month": 6,
+                "Quarter":2,
+                "Accuracy": 26,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 8,
+                "Date":"10/06-16/06",
+                "Month": 6,
+                "Quarter":2,
+                "Accuracy": 29,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 9,
+                "Date":"10/06-16/06",
+                "Month": 7,
+                "Quarter":2,
+                "Accuracy": 11,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 10,
+                "Date": "10/06-16/06",
+                "Month": 7,
+                "Quarter":2,
+                "Accuracy": 33,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 11,
+                "Date":"10/06-16/06",
+                "Month": 7,
+                "Quarter":2,
+                "Accuracy": 66,
+                "ActivitiesNumber": 20,
+                "Time": 40
+                
+             }
+         ],
+         "Adverb" : [
+            {
+                "Week": 1,
+                "Date":"30/04-05/05",
+                "Month": 5,
+                "Quarter":2,
+                "Accuracy": 50,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 2,
+                "Date": "06/05-12/05",
+                "Month": 5,
+                "Quarter":2,
+                "Accuracy": 100,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 3,
+                "Date":"13/05-19/05",
+                "Month": 5,
+                "Quarter":2,
+                "Accuracy": 99,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 4,
+                "Date": "20/05-26/05",
+                "Month": 5,
+                "Quarter":2,
+                "Accuracy": 20,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 5,
+                "Date":"27/05-02/06",
+                "Month": 6,
+                "Quarter":2,
+                "Accuracy": 42,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 6,
+                "Date": "03/06-09/06",
+                "Month": 6,
+                "Quarter":2,
+                "Accuracy": 44,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 7,
+                "Date": "13/05-19/05",
+                "Month": 6,
+                "Quarter":2,
+                "Accuracy": 26,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 8,
+                "Date":"10/06-16/06",
+                "Month": 6,
+                "Quarter":2,
+                "Accuracy": 29,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 9,
+                "Date":"10/06-16/06",
+                "Month": 7,
+                "Quarter":2,
+                "Accuracy": 11,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 10,
+                "Date": "10/06-16/06",
+                "Month": 7,
+                "Quarter":2,
+                "Accuracy": 33,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 11,
+                "Date":"10/06-16/06",
+                "Month": 7,
+                "Quarter":2,
+                "Accuracy": 66,
+                "ActivitiesNumber": 20,
+                "Time": 40
+                
+             }
+         ],
+         "Adjectives" : [
+            {
+                "Week": 1,
+                "Date":"30/04-05/05",
+                "Month": 5,
+                "Quarter":2,
+                "Accuracy": 50,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 2,
+                "Date": "06/05-12/05",
+                "Month": 5,
+                "Quarter":2,
+                "Accuracy": 100,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 3,
+                "Date":"13/05-19/05",
+                "Month": 5,
+                "Quarter":2,
+                "Accuracy": 99,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 4,
+                "Date": "20/05-26/05",
+                "Month": 5,
+                "Quarter":2,
+                "Accuracy": 20,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 5,
+                "Date":"27/05-02/06",
+                "Month": 6,
+                "Quarter":2,
+                "Accuracy": 42,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 6,
+                "Date": "03/06-09/06",
+                "Month": 6,
+                "Quarter":2,
+                "Accuracy": 44,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 7,
+                "Date": "13/05-19/05",
+                "Month": 6,
+                "Quarter":2,
+                "Accuracy": 26,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 8,
+                "Date":"10/06-16/06",
+                "Month": 6,
+                "Quarter":2,
+                "Accuracy": 29,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 9,
+                "Date":"10/06-16/06",
+                "Month": 7,
+                "Quarter":2,
+                "Accuracy": 11,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 10,
+                "Date": "10/06-16/06",
+                "Month": 7,
+                "Quarter":2,
+                "Accuracy": 33,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 11,
+                "Date":"10/06-16/06",
+                "Month": 7,
+                "Quarter":2,
+                "Accuracy": 66,
+                "ActivitiesNumber": 20,
+                "Time": 40
+                
+             }
+         ],
+         "Noun" : [
+            {
+                "Week": 1,
+                "Date":"30/04-05/05",
+                "Month": 5,
+                "Quarter":2,
+                "Accuracy": 50,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 2,
+                "Date": "06/05-12/05",
+                "Month": 5,
+                "Quarter":2,
+                "Accuracy": 100,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 3,
+                "Date":"13/05-19/05",
+                "Month": 5,
+                "Quarter":2,
+                "Accuracy": 99,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 4,
+                "Date": "20/05-26/05",
+                "Month": 5,
+                "Quarter":2,
+                "Accuracy": 20,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 5,
+                "Date":"27/05-02/06",
+                "Month": 6,
+                "Quarter":2,
+                "Accuracy": 42,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 6,
+                "Date": "03/06-09/06",
+                "Month": 6,
+                "Quarter":2,
+                "Accuracy": 44,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 7,
+                "Date": "13/05-19/05",
+                "Month": 6,
+                "Quarter":2,
+                "Accuracy": 26,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 8,
+                "Date":"10/06-16/06",
+                "Month": 6,
+                "Quarter":2,
+                "Accuracy": 29,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 9,
+                "Date":"10/06-16/06",
+                "Month": 7,
+                "Quarter":2,
+                "Accuracy": 11,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 10,
+                "Date": "10/06-16/06",
+                "Month": 7,
+                "Quarter":2,
+                "Accuracy": 33,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 11,
+                "Date":"10/06-16/06",
+                "Month": 7,
+                "Quarter":2,
+                "Accuracy": 66,
+                "ActivitiesNumber": 20,
+                "Time": 40
+                
+             }
+         ],
+         "Preposition" : [
+            {
+                "Week": 1,
+                "Date":"30/04-05/05",
+                "Month": 5,
+                "Quarter":2,
+                "Accuracy": 50,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 2,
+                "Date": "06/05-12/05",
+                "Month": 5,
+                "Quarter":2,
+                "Accuracy": 100,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 3,
+                "Date":"13/05-19/05",
+                "Month": 5,
+                "Quarter":2,
+                "Accuracy": 99,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 4,
+                "Date": "20/05-26/05",
+                "Month": 5,
+                "Quarter":2,
+                "Accuracy": 20,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 5,
+                "Date":"27/05-02/06",
+                "Month": 6,
+                "Quarter":2,
+                "Accuracy": 42,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 6,
+                "Date": "03/06-09/06",
+                "Month": 6,
+                "Quarter":2,
+                "Accuracy": 44,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 7,
+                "Date": "13/05-19/05",
+                "Month": 6,
+                "Quarter":2,
+                "Accuracy": 26,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 8,
+                "Date":"10/06-16/06",
+                "Month": 6,
+                "Quarter":2,
+                "Accuracy": 29,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 9,
+                "Date":"10/06-16/06",
+                "Month": 7,
+                "Quarter":2,
+                "Accuracy": 11,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 10,
+                "Date": "10/06-16/06",
+                "Month": 7,
+                "Quarter":2,
+                "Accuracy": 33,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 11,
+                "Date":"10/06-16/06",
+                "Month": 7,
+                "Quarter":2,
+                "Accuracy": 66,
+                "ActivitiesNumber": 20,
+                "Time": 40
+                
+             }
+         ],
+         "Pronoun" : [
+            {
+                "Week": 1,
+                "Date":"30/04-05/05",
+                "Month": 5,
+                "Quarter":2,
+                "Accuracy": 50,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 2,
+                "Date": "06/05-12/05",
+                "Month": 5,
+                "Quarter":2,
+                "Accuracy": 100,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 3,
+                "Date":"13/05-19/05",
+                "Month": 5,
+                "Quarter":2,
+                "Accuracy": 99,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 4,
+                "Date": "20/05-26/05",
+                "Month": 5,
+                "Quarter":2,
+                "Accuracy": 20,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 5,
+                "Date":"27/05-02/06",
+                "Month": 6,
+                "Quarter":2,
+                "Accuracy": 42,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 6,
+                "Date": "03/06-09/06",
+                "Month": 6,
+                "Quarter":2,
+                "Accuracy": 44,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 7,
+                "Date": "13/05-19/05",
+                "Month": 6,
+                "Quarter":2,
+                "Accuracy": 26,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 8,
+                "Date":"10/06-16/06",
+                "Month": 6,
+                "Quarter":2,
+                "Accuracy": 29,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 9,
+                "Date":"10/06-16/06",
+                "Month": 7,
+                "Quarter":2,
+                "Accuracy": 11,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 10,
+                "Date": "10/06-16/06",
+                "Month": 7,
+                "Quarter":2,
+                "Accuracy": 33,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 11,
+                "Date":"10/06-16/06",
+                "Month": 7,
+                "Quarter":2,
+                "Accuracy": 66,
+                "ActivitiesNumber": 20,
+                "Time": 40
+                
+             }
+         ]
+    },
+    "Indus Indore": {
+        "Bookmarks" : [
+            {
+                "Week": 1,
+                "Date":"30/04-05/05",
+                "Month": 5,
+                "Quarter":2,
+                "Number": 2
+             },
+             {
+                "Week": 2,
+                "Date": "06/05-12/05",
+                "Month": 5,
+                "Quarter":2,
+                "Number": 5
+             },
+             {
+                "Week": 3,
+                "Date":"13/05-19/05",
+                "Month": 5,
+                "Quarter":2,
+                "Number": 10
+             },
+             {
+                "Week": 4,
+                "Date": "20/05-26/05",
+                "Month": 5,
+                "Quarter":2,
+                "Number": 11
+             },
+             {
+                "Week": 5,
+                "Date":"27/05-02/06",
+                "Month": 6,
+                "Quarter":2,
+                "Number": 11
+             },
+             {
+                "Week": 6,
+                "Date": "03/06-09/06",
+                "Month": 6,
+                "Quarter":2,
+                "Number": 50
+             },
+             {
+                "Week": 7,
+                "Date": "13/05-19/05",
+                "Month": 6,
+                "Quarter":2,
+                "Number": 50
+             },
+             {
+                "Week": 8,
+                "Date":"10/06-16/06",
+                "Month": 6,
+                "Quarter":2,
+                "Number": 60
+             },
+             {
+                "Week": 9,
+                "Date":"10/06-16/06",
+                "Month": 7,
+                "Quarter":2,
+                "Number": 80
+             },
+             {
+                "Week": 10,
+                "Date": "10/06-16/06",
+                "Month": 7,
+                "Quarter":2,
+                "Number": 100
+             },
+             {
+                "Week": 11,
+                "Date":"10/06-16/06",
+                "Month": 7,
+                "Quarter":2,
+                "Number": 110
+                
+             }
+         ],
+            "Grammar" : [
+                {
+                    "Week": 1,
+                    "Date":"30/04-05/05",
+                    "Month": 5,
+                    "Quarter":2,
+                    "Accuracy": 50,
+                    "ActivitiesNumber": 20,
+                    "Time": 40
+                 },
+                 {
+                    "Week": 2,
+                    "Date": "06/05-12/05",
+                    "Month": 5,
+                    "Quarter":2,
+                    "Accuracy": 100,
+                    "ActivitiesNumber": 20,
+                    "Time": 40
+                 },
+                 {
+                    "Week": 3,
+                    "Date":"13/05-19/05",
+                    "Month": 5,
+                    "Quarter":2,
+                    "Accuracy": 99,
+                    "ActivitiesNumber": 20,
+                    "Time": 40
+                 },
+                 {
+                    "Week": 4,
+                    "Date": "20/05-26/05",
+                    "Month": 5,
+                    "Quarter":2,
+                    "Accuracy": 20,
+                    "ActivitiesNumber": 20,
+                    "Time": 40
+                 },
+                 {
+                    "Week": 5,
+                    "Date":"27/05-02/06",
+                    "Month": 6,
+                    "Quarter":2,
+                    "Accuracy": 42,
+                    "ActivitiesNumber": 20,
+                    "Time": 40
+                 },
+                 {
+                    "Week": 6,
+                    "Date": "03/06-09/06",
+                    "Month": 6,
+                    "Quarter":2,
+                    "Accuracy": 44,
+                    "ActivitiesNumber": 20,
+                    "Time": 40
+                 },
+                 {
+                    "Week": 7,
+                    "Date": "13/05-19/05",
+                    "Month": 6,
+                    "Quarter":2,
+                    "Accuracy": 26,
+                    "ActivitiesNumber": 20,
+                    "Time": 40
+                 },
+                 {
+                    "Week": 8,
+                    "Date":"10/06-16/06",
+                    "Month": 6,
+                    "Quarter":2,
+                    "Accuracy": 29,
+                    "ActivitiesNumber": 20,
+                    "Time": 40
+                 },
+                 {
+                    "Week": 9,
+                    "Date":"10/06-16/06",
+                    "Month": 7,
+                    "Quarter":2,
+                    "Accuracy": 11,
+                    "ActivitiesNumber": 20,
+                    "Time": 40
+                 },
+                 {
+                    "Week": 10,
+                    "Date": "10/06-16/06",
+                    "Month": 7,
+                    "Quarter":2,
+                    "Accuracy": 33,
+                    "ActivitiesNumber": 20,
+                    "Time": 40
+                 },
+                 {
+                    "Week": 11,
+                    "Date":"10/06-16/06",
+                    "Month": 7,
+                    "Quarter":2,
+                    "Accuracy": 66,
+                    "ActivitiesNumber": 20,
+                    "Time": 40
+                    
+                 }
+             ],
+             "Verb" : [
+                {
+                    "Week": 1,
+                    "Date":"30/04-05/05",
+                    "Month": 5,
+                    "Quarter":2,
+                    "Accuracy": 50,
+                    "ActivitiesNumber": 20,
+                    "Time": 40
+                 },
+                 {
+                    "Week": 2,
+                    "Date": "06/05-12/05",
+                    "Month": 5,
+                    "Quarter":2,
+                    "Accuracy": 100,
+                    "ActivitiesNumber": 20,
+                    "Time": 40
+                 },
+                 {
+                    "Week": 3,
+                    "Date":"13/05-19/05",
+                    "Month": 5,
+                    "Quarter":2,
+                    "Accuracy": 99,
+                    "ActivitiesNumber": 20,
+                    "Time": 40
+                 },
+                 {
+                    "Week": 4,
+                    "Date": "20/05-26/05",
+                    "Month": 5,
+                    "Quarter":2,
+                    "Accuracy": 20,
+                    "ActivitiesNumber": 20,
+                    "Time": 40
+                 },
+                 {
+                    "Week": 5,
+                    "Date":"27/05-02/06",
+                    "Month": 6,
+                    "Quarter":2,
+                    "Accuracy": 42,
+                    "ActivitiesNumber": 20,
+                    "Time": 40
+                 },
+                 {
+                    "Week": 6,
+                    "Date": "03/06-09/06",
+                    "Month": 6,
+                    "Quarter":2,
+                    "Accuracy": 44,
+                    "ActivitiesNumber": 20,
+                    "Time": 40
+                 },
+                 {
+                    "Week": 7,
+                    "Date": "13/05-19/05",
+                    "Month": 6,
+                    "Quarter":2,
+                    "Accuracy": 26,
+                    "ActivitiesNumber": 20,
+                    "Time": 40
+                 },
+                 {
+                    "Week": 8,
+                    "Date":"10/06-16/06",
+                    "Month": 6,
+                    "Quarter":2,
+                    "Accuracy": 29,
+                    "ActivitiesNumber": 20,
+                    "Time": 40
+                 },
+                 {
+                    "Week": 9,
+                    "Date":"10/06-16/06",
+                    "Month": 7,
+                    "Quarter":2,
+                    "Accuracy": 11,
+                    "ActivitiesNumber": 20,
+                    "Time": 40
+                 },
+                 {
+                    "Week": 10,
+                    "Date": "10/06-16/06",
+                    "Month": 7,
+                    "Quarter":2,
+                    "Accuracy": 33,
+                    "ActivitiesNumber": 20,
+                    "Time": 40
+                 },
+                 {
+                    "Week": 11,
+                    "Date":"10/06-16/06",
+                    "Month": 7,
+                    "Quarter":2,
+                    "Accuracy": 66,
+                    "ActivitiesNumber": 20,
+                    "Time": 40
+                    
+                 }
+             ],
+             "Adverb" : [
+                {
+                    "Week": 1,
+                    "Date":"30/04-05/05",
+                    "Month": 5,
+                    "Quarter":2,
+                    "Accuracy": 50,
+                    "ActivitiesNumber": 20,
+                    "Time": 40
+                 },
+                 {
+                    "Week": 2,
+                    "Date": "06/05-12/05",
+                    "Month": 5,
+                    "Quarter":2,
+                    "Accuracy": 100,
+                    "ActivitiesNumber": 20,
+                    "Time": 40
+                 },
+                 {
+                    "Week": 3,
+                    "Date":"13/05-19/05",
+                    "Month": 5,
+                    "Quarter":2,
+                    "Accuracy": 99,
+                    "ActivitiesNumber": 20,
+                    "Time": 40
+                 },
+                 {
+                    "Week": 4,
+                    "Date": "20/05-26/05",
+                    "Month": 5,
+                    "Quarter":2,
+                    "Accuracy": 20,
+                    "ActivitiesNumber": 20,
+                    "Time": 40
+                 },
+                 {
+                    "Week": 5,
+                    "Date":"27/05-02/06",
+                    "Month": 6,
+                    "Quarter":2,
+                    "Accuracy": 42,
+                    "ActivitiesNumber": 20,
+                    "Time": 40
+                 },
+                 {
+                    "Week": 6,
+                    "Date": "03/06-09/06",
+                    "Month": 6,
+                    "Quarter":2,
+                    "Accuracy": 44,
+                    "ActivitiesNumber": 20,
+                    "Time": 40
+                 },
+                 {
+                    "Week": 7,
+                    "Date": "13/05-19/05",
+                    "Month": 6,
+                    "Quarter":2,
+                    "Accuracy": 26,
+                    "ActivitiesNumber": 20,
+                    "Time": 40
+                 },
+                 {
+                    "Week": 8,
+                    "Date":"10/06-16/06",
+                    "Month": 6,
+                    "Quarter":2,
+                    "Accuracy": 29,
+                    "ActivitiesNumber": 20,
+                    "Time": 40
+                 },
+                 {
+                    "Week": 9,
+                    "Date":"10/06-16/06",
+                    "Month": 7,
+                    "Quarter":2,
+                    "Accuracy": 11,
+                    "ActivitiesNumber": 20,
+                    "Time": 40
+                 },
+                 {
+                    "Week": 10,
+                    "Date": "10/06-16/06",
+                    "Month": 7,
+                    "Quarter":2,
+                    "Accuracy": 33,
+                    "ActivitiesNumber": 20,
+                    "Time": 40
+                 },
+                 {
+                    "Week": 11,
+                    "Date":"10/06-16/06",
+                    "Month": 7,
+                    "Quarter":2,
+                    "Accuracy": 66,
+                    "ActivitiesNumber": 20,
+                    "Time": 40
+                    
+                 }
+             ],
+             "Adjectives" : [
+                {
+                    "Week": 1,
+                    "Date":"30/04-05/05",
+                    "Month": 5,
+                    "Quarter":2,
+                    "Accuracy": 50,
+                    "ActivitiesNumber": 20,
+                    "Time": 40
+                 },
+                 {
+                    "Week": 2,
+                    "Date": "06/05-12/05",
+                    "Month": 5,
+                    "Quarter":2,
+                    "Accuracy": 100,
+                    "ActivitiesNumber": 20,
+                    "Time": 40
+                 },
+                 {
+                    "Week": 3,
+                    "Date":"13/05-19/05",
+                    "Month": 5,
+                    "Quarter":2,
+                    "Accuracy": 99,
+                    "ActivitiesNumber": 20,
+                    "Time": 40
+                 },
+                 {
+                    "Week": 4,
+                    "Date": "20/05-26/05",
+                    "Month": 5,
+                    "Quarter":2,
+                    "Accuracy": 20,
+                    "ActivitiesNumber": 20,
+                    "Time": 40
+                 },
+                 {
+                    "Week": 5,
+                    "Date":"27/05-02/06",
+                    "Month": 6,
+                    "Quarter":2,
+                    "Accuracy": 42,
+                    "ActivitiesNumber": 20,
+                    "Time": 40
+                 },
+                 {
+                    "Week": 6,
+                    "Date": "03/06-09/06",
+                    "Month": 6,
+                    "Quarter":2,
+                    "Accuracy": 44,
+                    "ActivitiesNumber": 20,
+                    "Time": 40
+                 },
+                 {
+                    "Week": 7,
+                    "Date": "13/05-19/05",
+                    "Month": 6,
+                    "Quarter":2,
+                    "Accuracy": 26,
+                    "ActivitiesNumber": 20,
+                    "Time": 40
+                 },
+                 {
+                    "Week": 8,
+                    "Date":"10/06-16/06",
+                    "Month": 6,
+                    "Quarter":2,
+                    "Accuracy": 29,
+                    "ActivitiesNumber": 20,
+                    "Time": 40
+                 },
+                 {
+                    "Week": 9,
+                    "Date":"10/06-16/06",
+                    "Month": 7,
+                    "Quarter":2,
+                    "Accuracy": 11,
+                    "ActivitiesNumber": 20,
+                    "Time": 40
+                 },
+                 {
+                    "Week": 10,
+                    "Date": "10/06-16/06",
+                    "Month": 7,
+                    "Quarter":2,
+                    "Accuracy": 33,
+                    "ActivitiesNumber": 20,
+                    "Time": 40
+                 },
+                 {
+                    "Week": 11,
+                    "Date":"10/06-16/06",
+                    "Month": 7,
+                    "Quarter":2,
+                    "Accuracy": 66,
+                    "ActivitiesNumber": 20,
+                    "Time": 40
+                    
+                 }
+             ],
+             "Noun" : [
+                {
+                    "Week": 1,
+                    "Date":"30/04-05/05",
+                    "Month": 5,
+                    "Quarter":2,
+                    "Accuracy": 50,
+                    "ActivitiesNumber": 20,
+                    "Time": 40
+                 },
+                 {
+                    "Week": 2,
+                    "Date": "06/05-12/05",
+                    "Month": 5,
+                    "Quarter":2,
+                    "Accuracy": 100,
+                    "ActivitiesNumber": 20,
+                    "Time": 40
+                 },
+                 {
+                    "Week": 3,
+                    "Date":"13/05-19/05",
+                    "Month": 5,
+                    "Quarter":2,
+                    "Accuracy": 99,
+                    "ActivitiesNumber": 20,
+                    "Time": 40
+                 },
+                 {
+                    "Week": 4,
+                    "Date": "20/05-26/05",
+                    "Month": 5,
+                    "Quarter":2,
+                    "Accuracy": 20,
+                    "ActivitiesNumber": 20,
+                    "Time": 40
+                 },
+                 {
+                    "Week": 5,
+                    "Date":"27/05-02/06",
+                    "Month": 6,
+                    "Quarter":2,
+                    "Accuracy": 42,
+                    "ActivitiesNumber": 20,
+                    "Time": 40
+                 },
+                 {
+                    "Week": 6,
+                    "Date": "03/06-09/06",
+                    "Month": 6,
+                    "Quarter":2,
+                    "Accuracy": 44,
+                    "ActivitiesNumber": 20,
+                    "Time": 40
+                 },
+                 {
+                    "Week": 7,
+                    "Date": "13/05-19/05",
+                    "Month": 6,
+                    "Quarter":2,
+                    "Accuracy": 26,
+                    "ActivitiesNumber": 20,
+                    "Time": 40
+                 },
+                 {
+                    "Week": 8,
+                    "Date":"10/06-16/06",
+                    "Month": 6,
+                    "Quarter":2,
+                    "Accuracy": 29,
+                    "ActivitiesNumber": 20,
+                    "Time": 40
+                 },
+                 {
+                    "Week": 9,
+                    "Date":"10/06-16/06",
+                    "Month": 7,
+                    "Quarter":2,
+                    "Accuracy": 11,
+                    "ActivitiesNumber": 20,
+                    "Time": 40
+                 },
+                 {
+                    "Week": 10,
+                    "Date": "10/06-16/06",
+                    "Month": 7,
+                    "Quarter":2,
+                    "Accuracy": 33,
+                    "ActivitiesNumber": 20,
+                    "Time": 40
+                 },
+                 {
+                    "Week": 11,
+                    "Date":"10/06-16/06",
+                    "Month": 7,
+                    "Quarter":2,
+                    "Accuracy": 66,
+                    "ActivitiesNumber": 20,
+                    "Time": 40
+                    
+                 }
+             ],
+             "Preposition" : [
+                {
+                    "Week": 1,
+                    "Date":"30/04-05/05",
+                    "Month": 5,
+                    "Quarter":2,
+                    "Accuracy": 50,
+                    "ActivitiesNumber": 20,
+                    "Time": 40
+                 },
+                 {
+                    "Week": 2,
+                    "Date": "06/05-12/05",
+                    "Month": 5,
+                    "Quarter":2,
+                    "Accuracy": 100,
+                    "ActivitiesNumber": 20,
+                    "Time": 40
+                 },
+                 {
+                    "Week": 3,
+                    "Date":"13/05-19/05",
+                    "Month": 5,
+                    "Quarter":2,
+                    "Accuracy": 99,
+                    "ActivitiesNumber": 20,
+                    "Time": 40
+                 },
+                 {
+                    "Week": 4,
+                    "Date": "20/05-26/05",
+                    "Month": 5,
+                    "Quarter":2,
+                    "Accuracy": 20,
+                    "ActivitiesNumber": 20,
+                    "Time": 40
+                 },
+                 {
+                    "Week": 5,
+                    "Date":"27/05-02/06",
+                    "Month": 6,
+                    "Quarter":2,
+                    "Accuracy": 42,
+                    "ActivitiesNumber": 20,
+                    "Time": 40
+                 },
+                 {
+                    "Week": 6,
+                    "Date": "03/06-09/06",
+                    "Month": 6,
+                    "Quarter":2,
+                    "Accuracy": 44,
+                    "ActivitiesNumber": 20,
+                    "Time": 40
+                 },
+                 {
+                    "Week": 7,
+                    "Date": "13/05-19/05",
+                    "Month": 6,
+                    "Quarter":2,
+                    "Accuracy": 26,
+                    "ActivitiesNumber": 20,
+                    "Time": 40
+                 },
+                 {
+                    "Week": 8,
+                    "Date":"10/06-16/06",
+                    "Month": 6,
+                    "Quarter":2,
+                    "Accuracy": 29,
+                    "ActivitiesNumber": 20,
+                    "Time": 40
+                 },
+                 {
+                    "Week": 9,
+                    "Date":"10/06-16/06",
+                    "Month": 7,
+                    "Quarter":2,
+                    "Accuracy": 11,
+                    "ActivitiesNumber": 20,
+                    "Time": 40
+                 },
+                 {
+                    "Week": 10,
+                    "Date": "10/06-16/06",
+                    "Month": 7,
+                    "Quarter":2,
+                    "Accuracy": 33,
+                    "ActivitiesNumber": 20,
+                    "Time": 40
+                 },
+                 {
+                    "Week": 11,
+                    "Date":"10/06-16/06",
+                    "Month": 7,
+                    "Quarter":2,
+                    "Accuracy": 66,
+                    "ActivitiesNumber": 20,
+                    "Time": 40
+                    
+                 }
+             ],
+             "Pronoun" : [
+                {
+                    "Week": 1,
+                    "Date":"30/04-05/05",
+                    "Month": 5,
+                    "Quarter":2,
+                    "Accuracy": 50,
+                    "ActivitiesNumber": 20,
+                    "Time": 40
+                 },
+                 {
+                    "Week": 2,
+                    "Date": "06/05-12/05",
+                    "Month": 5,
+                    "Quarter":2,
+                    "Accuracy": 100,
+                    "ActivitiesNumber": 20,
+                    "Time": 40
+                 },
+                 {
+                    "Week": 3,
+                    "Date":"13/05-19/05",
+                    "Month": 5,
+                    "Quarter":2,
+                    "Accuracy": 99,
+                    "ActivitiesNumber": 20,
+                    "Time": 40
+                 },
+                 {
+                    "Week": 4,
+                    "Date": "20/05-26/05",
+                    "Month": 5,
+                    "Quarter":2,
+                    "Accuracy": 20,
+                    "ActivitiesNumber": 20,
+                    "Time": 40
+                 },
+                 {
+                    "Week": 5,
+                    "Date":"27/05-02/06",
+                    "Month": 6,
+                    "Quarter":2,
+                    "Accuracy": 42,
+                    "ActivitiesNumber": 20,
+                    "Time": 40
+                 },
+                 {
+                    "Week": 6,
+                    "Date": "03/06-09/06",
+                    "Month": 6,
+                    "Quarter":2,
+                    "Accuracy": 44,
+                    "ActivitiesNumber": 20,
+                    "Time": 40
+                 },
+                 {
+                    "Week": 7,
+                    "Date": "13/05-19/05",
+                    "Month": 6,
+                    "Quarter":2,
+                    "Accuracy": 26,
+                    "ActivitiesNumber": 20,
+                    "Time": 40
+                 },
+                 {
+                    "Week": 8,
+                    "Date":"10/06-16/06",
+                    "Month": 6,
+                    "Quarter":2,
+                    "Accuracy": 29,
+                    "ActivitiesNumber": 20,
+                    "Time": 40
+                 },
+                 {
+                    "Week": 9,
+                    "Date":"10/06-16/06",
+                    "Month": 7,
+                    "Quarter":2,
+                    "Accuracy": 11,
+                    "ActivitiesNumber": 20,
+                    "Time": 40
+                 },
+                 {
+                    "Week": 10,
+                    "Date": "10/06-16/06",
+                    "Month": 7,
+                    "Quarter":2,
+                    "Accuracy": 33,
+                    "ActivitiesNumber": 20,
+                    "Time": 40
+                 },
+                 {
+                    "Week": 11,
+                    "Date":"10/06-16/06",
+                    "Month": 7,
+                    "Quarter":2,
+                    "Accuracy": 66,
+                    "ActivitiesNumber": 20,
+                    "Time": 40
+                    
+                 }
+             ]
+        },
+    "Indus Ludhiana":{
+        "Bookmarks" : [
+            {
+                "Week": 1,
+                "Date":"30/04-05/05",
+                "Month": 5,
+                "Quarter":2,
+                "Number": 2
+             },
+             {
+                "Week": 2,
+                "Date": "06/05-12/05",
+                "Month": 5,
+                "Quarter":2,
+                "Number": 5
+             },
+             {
+                "Week": 3,
+                "Date":"13/05-19/05",
+                "Month": 5,
+                "Quarter":2,
+                "Number": 10
+             },
+             {
+                "Week": 4,
+                "Date": "20/05-26/05",
+                "Month": 5,
+                "Quarter":2,
+                "Number": 11
+             },
+             {
+                "Week": 5,
+                "Date":"27/05-02/06",
+                "Month": 6,
+                "Quarter":2,
+                "Number": 11
+             },
+             {
+                "Week": 6,
+                "Date": "03/06-09/06",
+                "Month": 6,
+                "Quarter":2,
+                "Number": 50
+             },
+             {
+                "Week": 7,
+                "Date": "13/05-19/05",
+                "Month": 6,
+                "Quarter":2,
+                "Number": 50
+             },
+             {
+                "Week": 8,
+                "Date":"10/06-16/06",
+                "Month": 6,
+                "Quarter":2,
+                "Number": 60
+             },
+             {
+                "Week": 9,
+                "Date":"10/06-16/06",
+                "Month": 7,
+                "Quarter":2,
+                "Number": 80
+             },
+             {
+                "Week": 10,
+                "Date": "10/06-16/06",
+                "Month": 7,
+                "Quarter":2,
+                "Number": 100
+             },
+             {
+                "Week": 11,
+                "Date":"10/06-16/06",
+                "Month": 7,
+                "Quarter":2,
+                "Number": 110
+                
+             }
+         ],
+        "Grammar" : [
+            {
+                "Week": 1,
+                "Date":"30/04-05/05",
+                "Month": 5,
+                "Quarter":2,
+                "Accuracy": 50,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 2,
+                "Date": "06/05-12/05",
+                "Month": 5,
+                "Quarter":2,
+                "Accuracy": 100,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 3,
+                "Date":"13/05-19/05",
+                "Month": 5,
+                "Quarter":2,
+                "Accuracy": 99,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 4,
+                "Date": "20/05-26/05",
+                "Month": 5,
+                "Quarter":2,
+                "Accuracy": 20,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 5,
+                "Date":"27/05-02/06",
+                "Month": 6,
+                "Quarter":2,
+                "Accuracy": 42,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 6,
+                "Date": "03/06-09/06",
+                "Month": 6,
+                "Quarter":2,
+                "Accuracy": 44,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 7,
+                "Date": "13/05-19/05",
+                "Month": 6,
+                "Quarter":2,
+                "Accuracy": 26,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 8,
+                "Date":"10/06-16/06",
+                "Month": 6,
+                "Quarter":2,
+                "Accuracy": 29,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 9,
+                "Date":"10/06-16/06",
+                "Month": 7,
+                "Quarter":2,
+                "Accuracy": 11,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 10,
+                "Date": "10/06-16/06",
+                "Month": 7,
+                "Quarter":2,
+                "Accuracy": 33,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 11,
+                "Date":"10/06-16/06",
+                "Month": 7,
+                "Quarter":2,
+                "Accuracy": 66,
+                "ActivitiesNumber": 20,
+                "Time": 40
+                
+             }
+         ],
+         "Verb" : [
+            {
+                "Week": 1,
+                "Date":"30/04-05/05",
+                "Month": 5,
+                "Quarter":2,
+                "Accuracy": 50,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 2,
+                "Date": "06/05-12/05",
+                "Month": 5,
+                "Quarter":2,
+                "Accuracy": 100,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 3,
+                "Date":"13/05-19/05",
+                "Month": 5,
+                "Quarter":2,
+                "Accuracy": 99,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 4,
+                "Date": "20/05-26/05",
+                "Month": 5,
+                "Quarter":2,
+                "Accuracy": 20,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 5,
+                "Date":"27/05-02/06",
+                "Month": 6,
+                "Quarter":2,
+                "Accuracy": 42,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 6,
+                "Date": "03/06-09/06",
+                "Month": 6,
+                "Quarter":2,
+                "Accuracy": 44,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 7,
+                "Date": "13/05-19/05",
+                "Month": 6,
+                "Quarter":2,
+                "Accuracy": 26,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 8,
+                "Date":"10/06-16/06",
+                "Month": 6,
+                "Quarter":2,
+                "Accuracy": 29,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 9,
+                "Date":"10/06-16/06",
+                "Month": 7,
+                "Quarter":2,
+                "Accuracy": 11,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 10,
+                "Date": "10/06-16/06",
+                "Month": 7,
+                "Quarter":2,
+                "Accuracy": 33,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 11,
+                "Date":"10/06-16/06",
+                "Month": 7,
+                "Quarter":2,
+                "Accuracy": 66,
+                "ActivitiesNumber": 20,
+                "Time": 40
+                
+             }
+         ],
+         "Adverb" : [
+            {
+                "Week": 1,
+                "Date":"30/04-05/05",
+                "Month": 5,
+                "Quarter":2,
+                "Accuracy": 50,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 2,
+                "Date": "06/05-12/05",
+                "Month": 5,
+                "Quarter":2,
+                "Accuracy": 100,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 3,
+                "Date":"13/05-19/05",
+                "Month": 5,
+                "Quarter":2,
+                "Accuracy": 99,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 4,
+                "Date": "20/05-26/05",
+                "Month": 5,
+                "Quarter":2,
+                "Accuracy": 20,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 5,
+                "Date":"27/05-02/06",
+                "Month": 6,
+                "Quarter":2,
+                "Accuracy": 42,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 6,
+                "Date": "03/06-09/06",
+                "Month": 6,
+                "Quarter":2,
+                "Accuracy": 44,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 7,
+                "Date": "13/05-19/05",
+                "Month": 6,
+                "Quarter":2,
+                "Accuracy": 26,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 8,
+                "Date":"10/06-16/06",
+                "Month": 6,
+                "Quarter":2,
+                "Accuracy": 29,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 9,
+                "Date":"10/06-16/06",
+                "Month": 7,
+                "Quarter":2,
+                "Accuracy": 11,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 10,
+                "Date": "10/06-16/06",
+                "Month": 7,
+                "Quarter":2,
+                "Accuracy": 33,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 11,
+                "Date":"10/06-16/06",
+                "Month": 7,
+                "Quarter":2,
+                "Accuracy": 66,
+                "ActivitiesNumber": 20,
+                "Time": 40
+                
+             }
+         ],
+         "Adjectives" : [
+            {
+                "Week": 1,
+                "Date":"30/04-05/05",
+                "Month": 5,
+                "Quarter":2,
+                "Accuracy": 50,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 2,
+                "Date": "06/05-12/05",
+                "Month": 5,
+                "Quarter":2,
+                "Accuracy": 100,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 3,
+                "Date":"13/05-19/05",
+                "Month": 5,
+                "Quarter":2,
+                "Accuracy": 99,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 4,
+                "Date": "20/05-26/05",
+                "Month": 5,
+                "Quarter":2,
+                "Accuracy": 20,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 5,
+                "Date":"27/05-02/06",
+                "Month": 6,
+                "Quarter":2,
+                "Accuracy": 42,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 6,
+                "Date": "03/06-09/06",
+                "Month": 6,
+                "Quarter":2,
+                "Accuracy": 44,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 7,
+                "Date": "13/05-19/05",
+                "Month": 6,
+                "Quarter":2,
+                "Accuracy": 26,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 8,
+                "Date":"10/06-16/06",
+                "Month": 6,
+                "Quarter":2,
+                "Accuracy": 29,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 9,
+                "Date":"10/06-16/06",
+                "Month": 7,
+                "Quarter":2,
+                "Accuracy": 11,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 10,
+                "Date": "10/06-16/06",
+                "Month": 7,
+                "Quarter":2,
+                "Accuracy": 33,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 11,
+                "Date":"10/06-16/06",
+                "Month": 7,
+                "Quarter":2,
+                "Accuracy": 66,
+                "ActivitiesNumber": 20,
+                "Time": 40
+                
+             }
+         ],
+         "Noun" : [
+            {
+                "Week": 1,
+                "Date":"30/04-05/05",
+                "Month": 5,
+                "Quarter":2,
+                "Accuracy": 50,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 2,
+                "Date": "06/05-12/05",
+                "Month": 5,
+                "Quarter":2,
+                "Accuracy": 100,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 3,
+                "Date":"13/05-19/05",
+                "Month": 5,
+                "Quarter":2,
+                "Accuracy": 99,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 4,
+                "Date": "20/05-26/05",
+                "Month": 5,
+                "Quarter":2,
+                "Accuracy": 20,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 5,
+                "Date":"27/05-02/06",
+                "Month": 6,
+                "Quarter":2,
+                "Accuracy": 42,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 6,
+                "Date": "03/06-09/06",
+                "Month": 6,
+                "Quarter":2,
+                "Accuracy": 44,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 7,
+                "Date": "13/05-19/05",
+                "Month": 6,
+                "Quarter":2,
+                "Accuracy": 26,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 8,
+                "Date":"10/06-16/06",
+                "Month": 6,
+                "Quarter":2,
+                "Accuracy": 29,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 9,
+                "Date":"10/06-16/06",
+                "Month": 7,
+                "Quarter":2,
+                "Accuracy": 11,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 10,
+                "Date": "10/06-16/06",
+                "Month": 7,
+                "Quarter":2,
+                "Accuracy": 33,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 11,
+                "Date":"10/06-16/06",
+                "Month": 7,
+                "Quarter":2,
+                "Accuracy": 66,
+                "ActivitiesNumber": 20,
+                "Time": 40
+                
+             }
+         ],
+         "Preposition" : [
+            {
+                "Week": 1,
+                "Date":"30/04-05/05",
+                "Month": 5,
+                "Quarter":2,
+                "Accuracy": 50,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 2,
+                "Date": "06/05-12/05",
+                "Month": 5,
+                "Quarter":2,
+                "Accuracy": 100,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 3,
+                "Date":"13/05-19/05",
+                "Month": 5,
+                "Quarter":2,
+                "Accuracy": 99,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 4,
+                "Date": "20/05-26/05",
+                "Month": 5,
+                "Quarter":2,
+                "Accuracy": 20,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 5,
+                "Date":"27/05-02/06",
+                "Month": 6,
+                "Quarter":2,
+                "Accuracy": 42,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 6,
+                "Date": "03/06-09/06",
+                "Month": 6,
+                "Quarter":2,
+                "Accuracy": 44,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 7,
+                "Date": "13/05-19/05",
+                "Month": 6,
+                "Quarter":2,
+                "Accuracy": 26,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 8,
+                "Date":"10/06-16/06",
+                "Month": 6,
+                "Quarter":2,
+                "Accuracy": 29,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 9,
+                "Date":"10/06-16/06",
+                "Month": 7,
+                "Quarter":2,
+                "Accuracy": 11,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 10,
+                "Date": "10/06-16/06",
+                "Month": 7,
+                "Quarter":2,
+                "Accuracy": 33,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 11,
+                "Date":"10/06-16/06",
+                "Month": 7,
+                "Quarter":2,
+                "Accuracy": 66,
+                "ActivitiesNumber": 20,
+                "Time": 40
+                
+             }
+         ],
+         "Pronoun" : [
+            {
+                "Week": 1,
+                "Date":"30/04-05/05",
+                "Month": 5,
+                "Quarter":2,
+                "Accuracy": 50,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 2,
+                "Date": "06/05-12/05",
+                "Month": 5,
+                "Quarter":2,
+                "Accuracy": 100,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 3,
+                "Date":"13/05-19/05",
+                "Month": 5,
+                "Quarter":2,
+                "Accuracy": 99,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 4,
+                "Date": "20/05-26/05",
+                "Month": 5,
+                "Quarter":2,
+                "Accuracy": 20,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 5,
+                "Date":"27/05-02/06",
+                "Month": 6,
+                "Quarter":2,
+                "Accuracy": 42,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 6,
+                "Date": "03/06-09/06",
+                "Month": 6,
+                "Quarter":2,
+                "Accuracy": 44,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 7,
+                "Date": "13/05-19/05",
+                "Month": 6,
+                "Quarter":2,
+                "Accuracy": 26,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 8,
+                "Date":"10/06-16/06",
+                "Month": 6,
+                "Quarter":2,
+                "Accuracy": 29,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 9,
+                "Date":"10/06-16/06",
+                "Month": 7,
+                "Quarter":2,
+                "Accuracy": 11,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 10,
+                "Date": "10/06-16/06",
+                "Month": 7,
+                "Quarter":2,
+                "Accuracy": 33,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 11,
+                "Date":"10/06-16/06",
+                "Month": 7,
+                "Quarter":2,
+                "Accuracy": 66,
+                "ActivitiesNumber": 20,
+                "Time": 40
+                
+             }
+         ]
+    },
+    "Learning Paths Chandigarh": {
+        "Bookmarks" : [
+            {
+                "Week": 1,
+                "Date":"30/04-05/05",
+                "Month": 5,
+                "Quarter":2,
+                "Number": 2
+             },
+             {
+                "Week": 2,
+                "Date": "06/05-12/05",
+                "Month": 5,
+                "Quarter":2,
+                "Number": 5
+             },
+             {
+                "Week": 3,
+                "Date":"13/05-19/05",
+                "Month": 5,
+                "Quarter":2,
+                "Number": 10
+             },
+             {
+                "Week": 4,
+                "Date": "20/05-26/05",
+                "Month": 5,
+                "Quarter":2,
+                "Number": 11
+             },
+             {
+                "Week": 5,
+                "Date":"27/05-02/06",
+                "Month": 6,
+                "Quarter":2,
+                "Number": 11
+             },
+             {
+                "Week": 6,
+                "Date": "03/06-09/06",
+                "Month": 6,
+                "Quarter":2,
+                "Number": 50
+             },
+             {
+                "Week": 7,
+                "Date": "13/05-19/05",
+                "Month": 6,
+                "Quarter":2,
+                "Number": 50
+             },
+             {
+                "Week": 8,
+                "Date":"10/06-16/06",
+                "Month": 6,
+                "Quarter":2,
+                "Number": 60
+             },
+             {
+                "Week": 9,
+                "Date":"10/06-16/06",
+                "Month": 7,
+                "Quarter":2,
+                "Number": 80
+             },
+             {
+                "Week": 10,
+                "Date": "10/06-16/06",
+                "Month": 7,
+                "Quarter":2,
+                "Number": 100
+             },
+             {
+                "Week": 11,
+                "Date":"10/06-16/06",
+                "Month": 7,
+                "Quarter":2,
+                "Number": 110
+                
+             }
+         ],
+        "Grammar" : [
+            {
+                "Week": 1,
+                "Date":"30/04-05/05",
+                "Month": 5,
+                "Quarter":2,
+                "Accuracy": 50,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 2,
+                "Date": "06/05-12/05",
+                "Month": 5,
+                "Quarter":2,
+                "Accuracy": 100,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 3,
+                "Date":"13/05-19/05",
+                "Month": 5,
+                "Quarter":2,
+                "Accuracy": 99,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 4,
+                "Date": "20/05-26/05",
+                "Month": 5,
+                "Quarter":2,
+                "Accuracy": 20,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 5,
+                "Date":"27/05-02/06",
+                "Month": 6,
+                "Quarter":2,
+                "Accuracy": 42,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 6,
+                "Date": "03/06-09/06",
+                "Month": 6,
+                "Quarter":2,
+                "Accuracy": 44,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 7,
+                "Date": "13/05-19/05",
+                "Month": 6,
+                "Quarter":2,
+                "Accuracy": 26,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 8,
+                "Date":"10/06-16/06",
+                "Month": 6,
+                "Quarter":2,
+                "Accuracy": 29,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 9,
+                "Date":"10/06-16/06",
+                "Month": 7,
+                "Quarter":2,
+                "Accuracy": 11,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 10,
+                "Date": "10/06-16/06",
+                "Month": 7,
+                "Quarter":2,
+                "Accuracy": 33,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 11,
+                "Date":"10/06-16/06",
+                "Month": 7,
+                "Quarter":2,
+                "Accuracy": 66,
+                "ActivitiesNumber": 20,
+                "Time": 40
+                
+             }
+         ],
+         "Verb" : [
+            {
+                "Week": 1,
+                "Date":"30/04-05/05",
+                "Month": 5,
+                "Quarter":2,
+                "Accuracy": 50,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 2,
+                "Date": "06/05-12/05",
+                "Month": 5,
+                "Quarter":2,
+                "Accuracy": 100,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 3,
+                "Date":"13/05-19/05",
+                "Month": 5,
+                "Quarter":2,
+                "Accuracy": 99,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 4,
+                "Date": "20/05-26/05",
+                "Month": 5,
+                "Quarter":2,
+                "Accuracy": 20,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 5,
+                "Date":"27/05-02/06",
+                "Month": 6,
+                "Quarter":2,
+                "Accuracy": 42,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 6,
+                "Date": "03/06-09/06",
+                "Month": 6,
+                "Quarter":2,
+                "Accuracy": 44,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 7,
+                "Date": "13/05-19/05",
+                "Month": 6,
+                "Quarter":2,
+                "Accuracy": 26,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 8,
+                "Date":"10/06-16/06",
+                "Month": 6,
+                "Quarter":2,
+                "Accuracy": 29,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 9,
+                "Date":"10/06-16/06",
+                "Month": 7,
+                "Quarter":2,
+                "Accuracy": 11,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 10,
+                "Date": "10/06-16/06",
+                "Month": 7,
+                "Quarter":2,
+                "Accuracy": 33,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 11,
+                "Date":"10/06-16/06",
+                "Month": 7,
+                "Quarter":2,
+                "Accuracy": 66,
+                "ActivitiesNumber": 20,
+                "Time": 40
+                
+             }
+         ],
+         "Adverb" : [
+            {
+                "Week": 1,
+                "Date":"30/04-05/05",
+                "Month": 5,
+                "Quarter":2,
+                "Accuracy": 50,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 2,
+                "Date": "06/05-12/05",
+                "Month": 5,
+                "Quarter":2,
+                "Accuracy": 100,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 3,
+                "Date":"13/05-19/05",
+                "Month": 5,
+                "Quarter":2,
+                "Accuracy": 99,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 4,
+                "Date": "20/05-26/05",
+                "Month": 5,
+                "Quarter":2,
+                "Accuracy": 20,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 5,
+                "Date":"27/05-02/06",
+                "Month": 6,
+                "Quarter":2,
+                "Accuracy": 42,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 6,
+                "Date": "03/06-09/06",
+                "Month": 6,
+                "Quarter":2,
+                "Accuracy": 44,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 7,
+                "Date": "13/05-19/05",
+                "Month": 6,
+                "Quarter":2,
+                "Accuracy": 26,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 8,
+                "Date":"10/06-16/06",
+                "Month": 6,
+                "Quarter":2,
+                "Accuracy": 29,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 9,
+                "Date":"10/06-16/06",
+                "Month": 7,
+                "Quarter":2,
+                "Accuracy": 11,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 10,
+                "Date": "10/06-16/06",
+                "Month": 7,
+                "Quarter":2,
+                "Accuracy": 33,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 11,
+                "Date":"10/06-16/06",
+                "Month": 7,
+                "Quarter":2,
+                "Accuracy": 66,
+                "ActivitiesNumber": 20,
+                "Time": 40
+                
+             }
+         ],
+         "Adjectives" : [
+            {
+                "Week": 1,
+                "Date":"30/04-05/05",
+                "Month": 5,
+                "Quarter":2,
+                "Accuracy": 50,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 2,
+                "Date": "06/05-12/05",
+                "Month": 5,
+                "Quarter":2,
+                "Accuracy": 100,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 3,
+                "Date":"13/05-19/05",
+                "Month": 5,
+                "Quarter":2,
+                "Accuracy": 99,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 4,
+                "Date": "20/05-26/05",
+                "Month": 5,
+                "Quarter":2,
+                "Accuracy": 20,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 5,
+                "Date":"27/05-02/06",
+                "Month": 6,
+                "Quarter":2,
+                "Accuracy": 42,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 6,
+                "Date": "03/06-09/06",
+                "Month": 6,
+                "Quarter":2,
+                "Accuracy": 44,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 7,
+                "Date": "13/05-19/05",
+                "Month": 6,
+                "Quarter":2,
+                "Accuracy": 26,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 8,
+                "Date":"10/06-16/06",
+                "Month": 6,
+                "Quarter":2,
+                "Accuracy": 29,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 9,
+                "Date":"10/06-16/06",
+                "Month": 7,
+                "Quarter":2,
+                "Accuracy": 11,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 10,
+                "Date": "10/06-16/06",
+                "Month": 7,
+                "Quarter":2,
+                "Accuracy": 33,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 11,
+                "Date":"10/06-16/06",
+                "Month": 7,
+                "Quarter":2,
+                "Accuracy": 66,
+                "ActivitiesNumber": 20,
+                "Time": 40
+                
+             }
+         ],
+         "Noun" : [
+            {
+                "Week": 1,
+                "Date":"30/04-05/05",
+                "Month": 5,
+                "Quarter":2,
+                "Accuracy": 50,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 2,
+                "Date": "06/05-12/05",
+                "Month": 5,
+                "Quarter":2,
+                "Accuracy": 100,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 3,
+                "Date":"13/05-19/05",
+                "Month": 5,
+                "Quarter":2,
+                "Accuracy": 99,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 4,
+                "Date": "20/05-26/05",
+                "Month": 5,
+                "Quarter":2,
+                "Accuracy": 20,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 5,
+                "Date":"27/05-02/06",
+                "Month": 6,
+                "Quarter":2,
+                "Accuracy": 42,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 6,
+                "Date": "03/06-09/06",
+                "Month": 6,
+                "Quarter":2,
+                "Accuracy": 44,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 7,
+                "Date": "13/05-19/05",
+                "Month": 6,
+                "Quarter":2,
+                "Accuracy": 26,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 8,
+                "Date":"10/06-16/06",
+                "Month": 6,
+                "Quarter":2,
+                "Accuracy": 29,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 9,
+                "Date":"10/06-16/06",
+                "Month": 7,
+                "Quarter":2,
+                "Accuracy": 11,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 10,
+                "Date": "10/06-16/06",
+                "Month": 7,
+                "Quarter":2,
+                "Accuracy": 33,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 11,
+                "Date":"10/06-16/06",
+                "Month": 7,
+                "Quarter":2,
+                "Accuracy": 66,
+                "ActivitiesNumber": 20,
+                "Time": 40
+                
+             }
+         ],
+         "Preposition" : [
+            {
+                "Week": 1,
+                "Date":"30/04-05/05",
+                "Month": 5,
+                "Quarter":2,
+                "Accuracy": 50,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 2,
+                "Date": "06/05-12/05",
+                "Month": 5,
+                "Quarter":2,
+                "Accuracy": 100,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 3,
+                "Date":"13/05-19/05",
+                "Month": 5,
+                "Quarter":2,
+                "Accuracy": 99,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 4,
+                "Date": "20/05-26/05",
+                "Month": 5,
+                "Quarter":2,
+                "Accuracy": 20,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 5,
+                "Date":"27/05-02/06",
+                "Month": 6,
+                "Quarter":2,
+                "Accuracy": 42,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 6,
+                "Date": "03/06-09/06",
+                "Month": 6,
+                "Quarter":2,
+                "Accuracy": 44,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 7,
+                "Date": "13/05-19/05",
+                "Month": 6,
+                "Quarter":2,
+                "Accuracy": 26,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 8,
+                "Date":"10/06-16/06",
+                "Month": 6,
+                "Quarter":2,
+                "Accuracy": 29,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 9,
+                "Date":"10/06-16/06",
+                "Month": 7,
+                "Quarter":2,
+                "Accuracy": 11,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 10,
+                "Date": "10/06-16/06",
+                "Month": 7,
+                "Quarter":2,
+                "Accuracy": 33,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 11,
+                "Date":"10/06-16/06",
+                "Month": 7,
+                "Quarter":2,
+                "Accuracy": 66,
+                "ActivitiesNumber": 20,
+                "Time": 40
+                
+             }
+         ],
+         "Pronoun" : [
+            {
+                "Week": 1,
+                "Date":"30/04-05/05",
+                "Month": 5,
+                "Quarter":2,
+                "Accuracy": 50,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 2,
+                "Date": "06/05-12/05",
+                "Month": 5,
+                "Quarter":2,
+                "Accuracy": 100,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 3,
+                "Date":"13/05-19/05",
+                "Month": 5,
+                "Quarter":2,
+                "Accuracy": 99,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 4,
+                "Date": "20/05-26/05",
+                "Month": 5,
+                "Quarter":2,
+                "Accuracy": 20,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 5,
+                "Date":"27/05-02/06",
+                "Month": 6,
+                "Quarter":2,
+                "Accuracy": 42,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 6,
+                "Date": "03/06-09/06",
+                "Month": 6,
+                "Quarter":2,
+                "Accuracy": 44,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 7,
+                "Date": "13/05-19/05",
+                "Month": 6,
+                "Quarter":2,
+                "Accuracy": 26,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 8,
+                "Date":"10/06-16/06",
+                "Month": 6,
+                "Quarter":2,
+                "Accuracy": 29,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 9,
+                "Date":"10/06-16/06",
+                "Month": 7,
+                "Quarter":2,
+                "Accuracy": 11,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 10,
+                "Date": "10/06-16/06",
+                "Month": 7,
+                "Quarter":2,
+                "Accuracy": 33,
+                "ActivitiesNumber": 20,
+                "Time": 40
+             },
+             {
+                "Week": 11,
+                "Date":"10/06-16/06",
+                "Month": 7,
+                "Quarter":2,
+                "Accuracy": 66,
+                "ActivitiesNumber": 20,
+                "Time": 40
+                
+             }
+         ]
+    }
+ }

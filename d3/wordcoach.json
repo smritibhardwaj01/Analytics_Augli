@@ -1,0 +1,44 @@
+{
+    "Overall":
+        
+         {
+            "Correct": 25,
+            "Incorrect":75
+            
+         },
+    "Indus":
+        
+         {
+            "Correct": 25,
+            "Incorrect":75
+            
+         },
+    "Indus Indore":
+
+            {
+            "Correct": 25,
+            "Incorrect":75
+            
+            },
+    "Indus Ludhiana":
+        
+         {
+            "Correct": 25,
+            "Incorrect":75
+            
+         },
+    "Indus Gurgaon":
+
+            {
+            "Correct": 25,
+            "Incorrect":75
+            
+            },
+    "Learning paths Chandigarh":
+        
+         {
+            "Correct": 25,
+            "Incorrect":75
+            
+         }
+}

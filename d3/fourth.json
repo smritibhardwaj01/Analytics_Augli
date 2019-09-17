@@ -1,0 +1,473 @@
+{
+    "Indus":
+        {
+            "Till Date":
+            {
+                "Percentage":
+                {
+                    "Core (Grammar)": 50,
+                    "Pronunciation": 20,
+                    "Reading": 10,
+                    "Summarization": 10,
+                    "Vocabulary": 10,
+                    "Asessment": 8
+                },
+                "Frequency":
+                {
+                    "active1day": 125,
+                    "active>1day": 125,
+                    "inactives": 250
+                }
+            },
+            "Last Week":
+            {
+                "Percentage":
+                {
+                    "Core (Grammar)": 50,
+                    "Pronunciation": 20,
+                    "Reading": 10,
+                    "Summarization": 10,
+                    "Vocabulary": 10,
+                    "Asessment": 8
+                },
+                "Frequency":
+                {
+                    "active1day": 25,
+                    "active>1day": 25,
+                    "inactives": 50
+                }
+            },
+            "Last 15 days":
+            {
+                "Percentage":
+                {
+                    "Core (Grammar)": 50,
+                    "Pronunciation": 20,
+                    "Reading": 10,
+                    "Summarization": 10,
+                    "Vocabulary": 10,
+                    "Asessment": 8
+                },
+                "Frequency":
+                {
+                    "active1day": 25,
+                    "active>1day": 25,
+                    "inactives": 50
+                }
+            },
+            "Last 1 Month":
+            {
+                "Percentage":
+                {
+                    "Core (Grammar)": 50,
+                    "Pronunciation": 20,
+                    "Reading": 10,
+                    "Summarization": 10,
+                    "Vocabulary": 10,
+                    "Asessment": 8
+                },
+                "Frequency":
+                {
+                    "Core (Grammar)": 50,
+                    "Pronunciation": 20,
+                    "Reading": 10,
+                    "Summarization": 10,
+                    "Vocabulary": 10,
+                    "Asessment": 8
+                }
+            },
+            "Last Quarter":
+            {
+                "Percentage":
+                {
+                    "Core (Grammar)": 50,
+                    "Pronunciation": 20,
+                    "Reading": 10,
+                    "Summarization": 10,
+                    "Vocabulary": 10,
+                    "Asessment": 8
+                },
+                "Frequency":
+                {
+                    "active1day": 25,
+                    "active>1day": 25,
+                    "inactives": 50
+                }
+            }
+        },
+    "Indus Indore":
+    {
+        "Till Date":
+        {
+            "Percentage":
+            {
+                "Core (Grammar)": 50,
+                    "Pronunciation": 20,
+                    "Reading": 10,
+                    "Summarization": 10,
+                    "Vocabulary": 10,
+                    "Asessment": 8
+            },
+            "Frequency":
+            {
+                "active1day": 25,
+                "active>1day": 25,
+                "inactives": 50
+            }
+        },
+        "Last Week":
+        {
+            "Percentage":
+            {
+                "Core (Grammar)": 50,
+                "Pronunciation": 20,
+                "Reading": 10,
+                "Summarization": 10,
+                "Vocabulary": 10,
+                "Asessment": 8
+            },
+            "Frequency":
+            {
+                "active1day": 25,
+                "active>1day": 25,
+                "inactives": 50
+            }
+        },
+        "Last 15 days":
+        {
+            "Percentage":
+            {
+                "Core (Grammar)": 50,
+                    "Pronunciation": 20,
+                    "Reading": 10,
+                    "Summarization": 10,
+                    "Vocabulary": 10,
+                    "Asessment": 8
+            },
+            "Frequency":
+            {
+                "active1day": 25,
+                "active>1day": 25,
+                "inactives": 50
+            }
+        },
+        "Last 1 Month":
+            {
+                "Percentage":
+                {
+                    "Core (Grammar)": 50,
+                    "Pronunciation": 20,
+                    "Reading": 10,
+                    "Summarization": 10,
+                    "Vocabulary": 10,
+                    "Asessment": 8
+                },
+                "Frequency":
+                {
+                    "active1day": 25,
+                    "active>1day": 25,
+                    "inactives": 50
+                }
+            },
+        "Last Quarter":
+        {
+            "Percentage":
+            {
+                "Core (Grammar)": 50,
+                    "Pronunciation": 20,
+                    "Reading": 10,
+                    "Summarization": 10,
+                    "Vocabulary": 10,
+                    "Asessment": 8
+            },
+            "Frequency":
+            {
+                "active1day": 25,
+                "active>1day": 25,
+                "inactives": 50
+            }
+        }
+    },
+    "Ludhiana":
+    {
+        "Till Date":
+        {
+            "Percentage":
+            {
+                "Core (Grammar)": 50,
+                "Pronunciation": 20,
+                "Reading": 10,
+                "Summarization": 10,
+                "Vocabulary": 10,
+                "Asessment": 8
+            },
+            "Frequency":
+            {
+                "active1day": 25,
+                "active>1day": 25,
+                "inactives": 50
+            }
+        },
+        "Last Week":
+        {
+            "Percentage":
+            {
+                "Core (Grammar)": 50,
+                "Pronunciation": 20,
+                "Reading": 10,
+                "Summarization": 10,
+                "Vocabulary": 10,
+                "Asessment": 8
+            },
+            "Frequency":
+            {
+                "active1day": 25,
+                "active>1day": 25,
+                "inactives": 50
+            }
+        },
+        "Last 15 days":
+        {
+            "Percentage":
+            {
+                "Core (Grammar)": 50,
+                "Pronunciation": 20,
+                "Reading": 10,
+                "Summarization": 10,
+                "Vocabulary": 10,
+                "Asessment": 8
+            },
+            "Frequency":
+            {
+                "active1day": 25,
+                "active>1day": 25,
+                "inactives": 50
+            }
+        },
+        "Last 1 Month":
+            {
+                "Percentage":
+                {
+                    "Core (Grammar)": 50,
+                    "Pronunciation": 20,
+                    "Reading": 10,
+                    "Summarization": 10,
+                    "Vocabulary": 10,
+                    "Asessment": 8
+                },
+                "Frequency":
+                {
+                    "active1day": 25,
+                    "active>1day": 25,
+                    "inactives": 50
+                }
+            },
+        "Last Quarter":
+        {
+            "Percentage":
+            {
+                "Core (Grammar)": 50,
+                "Pronunciation": 20,
+                "Reading": 10,
+                "Summarization": 10,
+                "Vocabulary": 10,
+                "Asessment": 8
+            },
+            "Frequency":
+            {
+                "active1day": 25,
+                "active>1day": 25,
+                "inactives": 50
+            }
+        }
+    },
+    "Indus Gurgaon":
+    {
+        "Till Date":
+        {
+            "Percentage":
+            {
+                "Core (Grammar)": 50,
+                "Pronunciation": 20,
+                "Reading": 10,
+                "Summarization": 10,
+                "Vocabulary": 10,
+                "Asessment": 8
+            },
+            "Frequency":
+            {
+                "active1day": 25,
+                "active>1day": 25,
+                "inactives": 50
+            }
+        },
+        "Last Week":
+        {
+            "Percentage":
+            {
+                "Core (Grammar)": 50,
+                "Pronunciation": 20,
+                "Reading": 10,
+                "Summarization": 10,
+                "Vocabulary": 10,
+                "Asessment": 8
+            },
+            "Frequency":
+            {
+                "active1day": 25,
+                "active>1day": 25,
+                "inactives": 50
+            }
+        },
+        "Last 15 days":
+        {
+            "Percentage":
+            {
+                "Core (Grammar)": 50,
+                "Pronunciation": 20,
+                "Reading": 10,
+                "Summarization": 10,
+                "Vocabulary": 10,
+                "Asessment": 8
+            },
+            "Frequency":
+            {
+                "Core (Grammar)": 50,
+                "Pronunciation": 20,
+                "Reading": 10,
+                "Summarization": 10,
+                "Vocabulary": 10,
+                "Asessment": 8
+            }
+        },
+        "Last 1 Month":
+            {
+                "Percentage":
+                {
+                    "Core (Grammar)": 50,
+                    "Pronunciation": 20,
+                    "Reading": 10,
+                    "Summarization": 10,
+                    "Vocabulary": 10,
+                    "Asessment": 8
+                },
+                "Frequency":
+                {
+                    "active1day": 25,
+                    "active>1day": 25,
+                    "inactives": 50
+                }
+            },
+        "Last Quarter":
+        {
+            "Percentage":
+            {
+                "Core (Grammar)": 50,
+                "Pronunciation": 20,
+                "Reading": 10,
+                "Summarization": 10,
+                "Vocabulary": 10,
+                "Asessment": 8
+            },
+            "Frequency":
+            {
+                "active1day": 25,
+                "active>1day": 25,
+                "inactives": 50
+            }
+        }
+    },
+    "Learning Paths":
+    {
+        "Till Date":
+        {
+            "Percentage":
+            {
+                "Core (Grammar)": 50,
+                "Pronunciation": 20,
+                "Reading": 10,
+                "Summarization": 10,
+                "Vocabulary": 10,
+                "Asessment": 8
+            },
+            "Frequency":
+            {
+                "active1day": 25,
+                "active>1day": 25,
+                "inactives": 50
+            }
+        },
+        "Last Week":
+        {
+            "Percentage":
+            {
+                "Core (Grammar)": 50,
+                "Pronunciation": 20,
+                "Reading": 10,
+                "Summarization": 10,
+                "Vocabulary": 10,
+                "Asessment": 8
+            },
+            "Frequency":
+            {
+                "active1day": 25,
+                "active>1day": 25,
+                "inactives": 50
+            }
+        },
+        "Last 15 days":
+        {
+            "Percentage":
+            {
+                "Core (Grammar)": 50,
+                "Pronunciation": 20,
+                "Reading": 10,
+                "Summarization": 10,
+                "Vocabulary": 10,
+                "Asessment": 8
+            },
+            "Frequency":
+            {
+                "active1day": 25,
+                "active>1day": 25,
+                "inactives": 50
+            }
+        },
+        "Last 1 Month":
+            {
+                "Percentage":
+                {
+                    "Core (Grammar)": 50,
+                    "Pronunciation": 20,
+                    "Reading": 10,
+                    "Summarization": 10,
+                    "Vocabulary": 10,
+                    "Asessment": 8
+                },
+                "Frequency":
+                {
+                    "active1day": 25,
+                    "active>1day": 25,
+                    "inactives": 50
+                }
+            },
+        "Last Quarter":
+        {
+            "Percentage":
+            {
+                "Core (Grammar)": 50,
+                "Pronunciation": 20,
+                "Reading": 10,
+                "Summarization": 10,
+                "Vocabulary": 10,
+                "Asessment": 8
+            },
+            "Frequency":
+            {
+                "active1day": 25,
+                "active>1day": 25,
+                "inactives": 50
+            }
+        }
+    }
+}

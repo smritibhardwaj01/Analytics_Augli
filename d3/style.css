@@ -1,0 +1,60 @@
+html{
+    scroll-behavior: smooth;
+}
+
+body{
+    background-color:#f2f5fa;
+}
+
+li{
+    display: inline;
+}
+
+ul>li>a{
+    background-color: #38CA2B;
+    color: #fff;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+    padding: 5px;
+    background-color: rgba(0, 0, 0, 0.2)
+}
+
+svg.percentage,div#second,div#fourth,svg.accuracy,svg.activitiesNumber,svg.activityTime,svg.bookmarks,
+div#wordcoach,div#exit,svg.frequency
+{
+    border: 1px solid #A9A9A9;
+}
+
+text,h3,a,xName,yName,text2{
+    font-family: Arial, Helvetica, sans-serif;
+    color: darkgray;
+}
+
+g.tick{
+    color: darkgray;
+}
+stroke{
+    color: darkgray;
+}
+div#trend{
+    position: relative;
+}
+
+select>option{
+    color: white;
+}
+
+
+
+#d3-dropdown,#subject-dropdown,#date-dropdown,#dropdown{
+    background-color: #A9A9A9;
+    border-radius: 5px;
+}
+
+div#exit,div#wordcoach{
+    width:75%;
+    height:400px;
+}
