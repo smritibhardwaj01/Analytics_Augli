@@ -1,5 +1,0 @@
-function filterSchool(){ 
-}
-
-function filterDate(){ 
-}
